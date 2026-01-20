@@ -1788,6 +1788,7 @@ namespace eSTS.Operation
                         //Remark : Auto approve
                         //Amend by: Normala
                         //Amend Date:24/10/25
+                        //CR : ESTS/CR/2025/001
                         objOperationApp.SubmitAutoApprove(isDraft, item.SupplyMethodID, item.OperationAppID, Session["UserID"].ToString());
                         //----------------------------------------------------------------------------------------------------------------
                         hfApplicationID.Value = item.OperationAppID.ToString();

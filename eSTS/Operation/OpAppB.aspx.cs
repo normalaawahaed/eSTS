@@ -302,6 +302,7 @@ namespace eSTS.Operation
             //Remark : Auto approve
             //Amend by: Normala
             //Amend Date:24/10/25
+            //CR : ESTS/CR/2025/001
             //btnAddVesselDoc.Visible = enable;
             //btnRefVesselDoc.Visible = enable;
             //btnSODocRefresh.Visible = enable;
@@ -320,6 +321,7 @@ namespace eSTS.Operation
             //Remark : Auto approve
             //Amend by: Normala
             //Amend Date:24/10/25
+            //CR : ESTS/CR/2025/001
             //btnSODocAdd.Enabled = enable;
             //btnSODocRefresh.Enabled = enable;
 
@@ -329,6 +331,7 @@ namespace eSTS.Operation
             //Remark : Auto approve
             //Amend by: Normala
             //Amend Date:24/10/25
+            //CR : ESTS/CR/2025/001
             //btnAddVesselDoc.Enabled = enable;
             //btnRefVesselDoc.Enabled = enable;
 
@@ -720,6 +723,7 @@ namespace eSTS.Operation
                 //Remark : Auto approve
                 //Amend by: Normala
                 //Amend Date:24/10/25
+                //CR : ESTS/CR/2025/001
                 //btnAddVesselDoc.Enabled = true;
                 //btnRefVesselDoc.Enabled = true;
                 //btnSODocRefresh.Enabled = true;
@@ -1376,8 +1380,9 @@ namespace eSTS.Operation
 
                         //Remark by mala on 24 oktober 2025 
                         //auto approve
-                       // if (!IsValidateSuppDoc(FSU.LicCompanyID.ToString(), FSU.LicCompanyVesselID.ToString()))
-                         //   return false;
+                        //CR : ESTS/CR/2025/001
+                        // if (!IsValidateSuppDoc(FSU.LicCompanyID.ToString(), FSU.LicCompanyVesselID.ToString()))
+                        //   return false;
 
                         ///Save Operation App
                         if (Session["mode"].ToString() == "n")
@@ -1459,6 +1464,7 @@ namespace eSTS.Operation
                         //Remark by Mala
                         //Purpose : Auto Approve
                         //Amend Date : 28/10/2025
+                        //CR : ESTS/CR/2025/001
                         //objOperationApp.SubmitApplication(item, item.SupplyMethodID, Session["UserID"].ToString(), isDraft);
                         objOperationApp.SubmitAutoApprove(isDraft, item.SupplyMethodID, item.OperationAppID, Session["UserID"].ToString());
                         hfApplicationID.Value = item.OperationAppID.ToString();
