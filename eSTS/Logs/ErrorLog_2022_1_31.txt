@@ -1,0 +1,642 @@
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 7:40:15 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 7:42:45 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 7:44:45 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 7:46:28 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 8:51:16 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at eSTS.Operation.ApplicantDashboardB.Page_Load(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApplicantDashboardB.aspx.cs:line 26
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 8:51:31 AM
+Page                        : operation_applicantdashboardb_aspx
+Method                      : Page_Load
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at eSTS.Operation.ApplicantDashboardB.Page_Load(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApplicantDashboardB.aspx.cs:line 26
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 8:51:42 AM
+Page                        : operation_applicantdashboardb_aspx
+Method                      : Page_Load
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValuesCore(Int32 index, String[] fieldNames, GetRowValueMethod getValue)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at DevExpress.Web.ASPxGridView.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at eSTS.Operation.ApplicantDashboardB.grid_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApplicantDashboardB.aspx.cs:line 83
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 31/1/2022 8:53:28 AM
+Page                        : operation_applicantdashboardb_aspx
+Method                      : grid_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspiniaMethodB.cmdLogOut_Click(Object sender, EventArgs e)
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 8:56:14 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspiniaMethodB.cmdLogOut_Click(Object sender, EventArgs e)
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 8:57:28 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.LoadForm()
+Exception Source            : eSTS
+Time of Occurence           : 31/1/2022 8:57:46 AM
+Page                        : operation_opappa_aspx
+Method                      : LoadForm
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.LoadForm()
+Exception Source            : eSTS
+Time of Occurence           : 31/1/2022 8:58:39 AM
+Page                        : operation_opappa_aspx
+Method                      : LoadForm
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.LoadForm()
+Exception Source            : eSTS
+Time of Occurence           : 31/1/2022 8:58:57 AM
+Page                        : operation_opappa_aspx
+Method                      : LoadForm
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppB.LoadForm()
+Exception Source            : eSTS
+Time of Occurence           : 31/1/2022 8:59:43 AM
+Page                        : operation_opappb_aspx
+Method                      : LoadForm
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppB.LoadForm()
+Exception Source            : eSTS
+Time of Occurence           : 31/1/2022 9:00:43 AM
+Page                        : operation_opappb_aspx
+Method                      : LoadForm
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspiniaMethodB.cmdLogOut_Click(Object sender, EventArgs e)
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 9:05:13 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at System.Data.Objects.ELinq.QueryParameterExpression.EvaluateParameter(Object[] arguments)
+   at System.Data.Objects.ELinq.ELinqQueryState.GetExecutionPlan(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at System.Data.Entity.Internal.Linq.InternalQuery`1.GetEnumerator()
+   at System.Data.Entity.Infrastructure.DbQuery`1.System.Collections.Generic.IEnumerable<TResult>.GetEnumerator()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at eSTS.Operation.OpAppB.loadTimeline(Guid ApplicationID)
+Exception Source            : System.Data.Entity
+Time of Occurence           : 31/1/2022 9:21:06 AM
+Page                        : operation_opappb_aspx
+Method                      : loadTimeline
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e)
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 9:26:19 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 9:41:58 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 9:42:40 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 9:47:16 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 9:49:24 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspiniaMethodB.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspiniaMethodB.Master.cs:line 283
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 10:15:12 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspiniaMethodB.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspiniaMethodB.Master.cs:line 283
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 10:16:04 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspiniaMethodB.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspiniaMethodB.Master.cs:line 283
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 11:20:41 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.LoadForm() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 842
+Exception Source            : eSTS
+Time of Occurence           : 31/1/2022 11:21:00 AM
+Page                        : operation_opappa_aspx
+Method                      : LoadForm
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at eSTS.Operation.OpAppA.Page_Load(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 28
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 11:32:49 AM
+Page                        : operation_opappa_aspx
+Method                      : Page_Load
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at eSTS.Operation.OpAppA.Page_Load(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 28
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 11:34:29 AM
+Page                        : operation_opappa_aspx
+Method                      : Page_Load
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.LoadForm() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 810
+Exception Source            : eSTS
+Time of Occurence           : 31/1/2022 11:53:23 AM
+Page                        : operation_opappa_aspx
+Method                      : LoadForm
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.LoadForm()
+Exception Source            : eSTS
+Time of Occurence           : 31/1/2022 11:55:07 AM
+Page                        : operation_opappa_aspx
+Method                      : LoadForm
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspiniaMethodB.cmdLogOut_Click(Object sender, EventArgs e)
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 12:18:30 PM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 3:23:27 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 3:23:33 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 3:23:34 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 3:23:36 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 3:23:38 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 3:23:41 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 3:23:42 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 3:23:45 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 3:23:46 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 3:23:48 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 3:23:50 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 3:23:53 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 3:23:54 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 3:27:25 PM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx).
+Details                     : System.FormatException: Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx).
+   at System.Guid.TryParseGuidWithNoStyle(String guidString, GuidResult& result)
+   at System.Guid.TryParseGuid(String g, GuidStyles flags, GuidResult& result)
+   at System.Guid..ctor(String g)
+   at eSTS.License.ShipLicenseInfo.LoadForm() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\License\ShipLicenseInfo.aspx.cs:line 98
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 3:46:00 PM
+Page                        : license_shiplicenseinfo_aspx
+Method                      : LoadForm
+-------------------------------------------------------------------------------
+Exception Message           : Unrecognized Guid format.
+Details                     : System.FormatException: Unrecognized Guid format.
+   at System.Guid.TryParseGuid(String g, GuidStyles flags, GuidResult& result)
+   at System.Guid..ctor(String g)
+   at eSTS.License.STSOperatorLic.LoadForm() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\License\STSOperatorLic.aspx.cs:line 72
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 3:46:03 PM
+Page                        : license_stsoperatorlic_aspx
+Method                      : LoadForm
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 3:49:36 PM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsSTSOperator_Selecting(Object sender, EntityDataSourceSelectingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 975
+Exception Source            : eSTS
+Time of Occurence           : 31/1/2022 3:49:37 PM
+Page                        : operation_opappa_aspx
+Method                      : dsSTSOperator_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 3:59:03 PM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 4:03:35 PM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 4:20:28 PM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : StartIndex cannot be less than zero.
+Parameter name: startIndex
+Details                     : System.ArgumentOutOfRangeException: StartIndex cannot be less than zero.
+Parameter name: startIndex
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at System.String.Substring(Int32 startIndex)
+   at eSTS.Operation.OpAppA.SaveAttach(String docid) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 1286
+Exception Source            : mscorlib
+Time of Occurence           : 31/1/2022 4:25:07 PM
+Page                        : operation_opappa_aspx
+Method                      : SaveAttach
+-------------------------------------------------------------------------------

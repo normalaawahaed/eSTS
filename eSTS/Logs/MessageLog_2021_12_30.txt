@@ -1,0 +1,15 @@
+Message           : path:C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\Upload\419234V\05e4dab7-f535-4795-bb67-c43c1c81b39f\qrcode_Lampiran1_202112300834092161.jpg
+Time of Occurence           : 30/12/2021 8:34:09 AM
+Page                        : QRCodeGen
+Method                      : RenderQrCode
+-------------------------------------------------------------------------------
+Message           : path:C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\Upload\419234V\05e4dab7-f535-4795-bb67-c43c1c81b39f\qrcode_Lampiran1_202112301018284516.jpg
+Time of Occurence           : 30/12/2021 10:18:28 AM
+Page                        : QRCodeGen
+Method                      : RenderQrCode
+-------------------------------------------------------------------------------
+Message           : path:C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\Upload\419234V\05e4dab7-f535-4795-bb67-c43c1c81b39f\qrcode_Lampiran1_202112301036128617.jpg
+Time of Occurence           : 30/12/2021 10:36:12 AM
+Page                        : QRCodeGen
+Method                      : RenderQrCode
+-------------------------------------------------------------------------------

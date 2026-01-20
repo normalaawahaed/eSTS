@@ -1,0 +1,12 @@
+﻿<parameters>
+  <parameter name="IIS Web Application Name" defaultValue="eBunkering" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Workspace\\Project\\eBunkering\\Source\ Code\\eBunkering_bk\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\Workspace\\Project\\eBunkering\\Source\ Code\\eBunkering_bk\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="ConnectionString-Web.config Connection String" defaultValue="Data Source=AQRSB-NB-014\SQL2008;Initial Catalog=eBunkering_Dev;User ID=sa;Password=qwerty">
+    <parameterEntry kind="XmlFile" scope="D:\\Workspace\\Project\\eBunkering\\Source\ Code\\eBunkering_bk\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="eBunkering_DevEntities-Web.config Connection String" defaultValue="metadata=res://*/Database.eBunkering.csdl|res://*/Database.eBunkering.ssdl|res://*/Database.eBunkering.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=AQRSB-NB-014\SQL2008;initial catalog=eBunkering_Dev;user id=sa;password=qwerty;MultipleActiveResultSets=True;App=EntityFramework&quot;">
+    <parameterEntry kind="XmlFile" scope="D:\\Workspace\\Project\\eBunkering\\Source\ Code\\eBunkering_bk\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='eBunkering_DevEntities']/@connectionString" />
+  </parameter>
+</parameters>

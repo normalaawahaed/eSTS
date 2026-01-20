@@ -1,0 +1,70 @@
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 26/1/2022 9:35:11 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 26/1/2022 9:36:02 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 26/1/2022 3:17:57 PM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e)
+Exception Source            : mscorlib
+Time of Occurence           : 26/1/2022 3:21:29 PM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at eSTS.Operation.OpAppA.Page_Load(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 28
+Exception Source            : mscorlib
+Time of Occurence           : 26/1/2022 3:23:36 PM
+Page                        : operation_opappa_aspx
+Method                      : Page_Load
+-------------------------------------------------------------------------------

@@ -1,0 +1,56 @@
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTSeLPJInteg.Integration.execIntegration() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTSeLPJInteg\Integration.cs:line 92
+Exception Source            : eSTSeLPJInteg
+Time of Occurence           : 26/12/2021 11:17:20 AM
+Page                        : Integration
+Method                      : execIntegration
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTSeLPJInteg.Integration.execIntegration() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTSeLPJInteg\Integration.cs:line 92
+Exception Source            : eSTSeLPJInteg
+Time of Occurence           : 26/12/2021 11:20:25 AM
+Page                        : Integration
+Method                      : execIntegration
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTSeLPJInteg.Integration.execIntegration() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTSeLPJInteg\Integration.cs:line 92
+Exception Source            : eSTSeLPJInteg
+Time of Occurence           : 26/12/2021 11:21:14 AM
+Page                        : Integration
+Method                      : execIntegration
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTSeLPJInteg.Integration.execIntegration() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTSeLPJInteg\Integration.cs:line 92
+Exception Source            : eSTSeLPJInteg
+Time of Occurence           : 26/12/2021 11:22:52 AM
+Page                        : Integration
+Method                      : execIntegration
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTSeLPJInteg.Integration.execIntegration() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTSeLPJInteg\Integration.cs:line 92
+Exception Source            : eSTSeLPJInteg
+Time of Occurence           : 26/12/2021 11:26:30 AM
+Page                        : Integration
+Method                      : execIntegration
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTSeLPJInteg.Integration.execIntegration() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTSeLPJInteg\Integration.cs:line 57
+Exception Source            : eSTSeLPJInteg
+Time of Occurence           : 26/12/2021 11:41:25 AM
+Page                        : Integration
+Method                      : execIntegration
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTSeLPJInteg.Integration.execIntegration() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTSeLPJInteg\Integration.cs:line 57
+Exception Source            : eSTSeLPJInteg
+Time of Occurence           : 26/12/2021 11:41:42 AM
+Page                        : Integration
+Method                      : execIntegration
+-------------------------------------------------------------------------------

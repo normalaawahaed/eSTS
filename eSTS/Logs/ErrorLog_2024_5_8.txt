@@ -1,0 +1,24 @@
+Exception Message           : Column 'ShipCategory' does not belong to table MMSShip.
+Details                     : System.ArgumentException: Column 'ShipCategory' does not belong to table MMSShip.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at eSTS.DAL.DALSync.SyncShip() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\DAL\DALSync.cs:line 1232
+Exception Source            : System.Data
+Time of Occurence           : 8/5/2024 2:42:05 PM
+Page                        : DALSync
+Method                      : SyncShip
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at eSTS.Operation.OperationList.Page_Load(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 28
+Exception Source            : mscorlib
+Time of Occurence           : 8/5/2024 3:50:10 PM
+Page                        : operation_operationlist_aspx
+Method                      : Page_Load
+-------------------------------------------------------------------------------

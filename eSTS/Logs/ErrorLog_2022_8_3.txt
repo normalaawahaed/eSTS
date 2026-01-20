@@ -1,0 +1,14 @@
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e)
+Exception Source            : mscorlib
+Time of Occurence           : 3/8/2022 10:51:15 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------

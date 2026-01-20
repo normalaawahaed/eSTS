@@ -1,0 +1,16 @@
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppB.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppB.aspx.cs:line 580
+Exception Source            : eSTS
+Time of Occurence           : 21/12/2021 4:11:43 PM
+Page                        : operation_opappb_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppB.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 21/12/2021 4:12:30 PM
+Page                        : operation_opappb_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------

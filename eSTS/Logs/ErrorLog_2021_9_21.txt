@@ -1,0 +1,64 @@
+Exception Message           : String was not recognized as a valid DateTime.
+Details                     : System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at eSTS.Operation.ApplicantDashboard.grid_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApplicantDashboard.aspx.cs:line 81
+Exception Source            : mscorlib
+Time of Occurence           : 21/9/2021 4:02:37 PM
+Page                        : operation_applicantdashboard_aspx
+Method                      : grid_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : String was not recognized as a valid DateTime.
+Details                     : System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at eSTS.Operation.ApplicantDashboard.grid_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApplicantDashboard.aspx.cs:line 81
+Exception Source            : mscorlib
+Time of Occurence           : 21/9/2021 4:03:00 PM
+Page                        : operation_applicantdashboard_aspx
+Method                      : grid_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : String was not recognized as a valid DateTime.
+Details                     : System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at eSTS.Operation.ApplicantDashboard.grid_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApplicantDashboard.aspx.cs:line 81
+Exception Source            : mscorlib
+Time of Occurence           : 21/9/2021 4:06:44 PM
+Page                        : operation_applicantdashboard_aspx
+Method                      : grid_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : String was not recognized as a valid DateTime.
+Details                     : System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at eSTS.Operation.ApplicantDashboard.grid_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApplicantDashboard.aspx.cs:line 81
+Exception Source            : mscorlib
+Time of Occurence           : 21/9/2021 4:09:42 PM
+Page                        : operation_applicantdashboard_aspx
+Method                      : grid_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : String was not recognized as a valid DateTime.
+Details                     : System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at eSTS.Operation.ApplicantDashboard.grid_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApplicantDashboard.aspx.cs:line 81
+Exception Source            : mscorlib
+Time of Occurence           : 21/9/2021 4:09:53 PM
+Page                        : operation_applicantdashboard_aspx
+Method                      : grid_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 283
+Exception Source            : mscorlib
+Time of Occurence           : 21/9/2021 4:10:56 PM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------

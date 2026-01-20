@@ -1,0 +1,8 @@
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.LoadForm() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 846
+Exception Source            : eSTS
+Time of Occurence           : 23/10/2025 11:02:21 AM
+Page                        : operation_opappa_aspx
+Method                      : LoadForm
+-------------------------------------------------------------------------------

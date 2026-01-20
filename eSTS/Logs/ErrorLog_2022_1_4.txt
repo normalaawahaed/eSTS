@@ -1,0 +1,130 @@
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.IsValidate(Boolean isDraft) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 1246
+Exception Source            : eSTS
+Time of Occurence           : 4/1/2022 7:45:44 AM
+Page                        : operation_opappa_aspx
+Method                      : IsValidate
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.IsValidate(Boolean isDraft) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 1246
+Exception Source            : eSTS
+Time of Occurence           : 4/1/2022 7:46:10 AM
+Page                        : operation_opappa_aspx
+Method                      : IsValidate
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ToInt32(Object value)
+   at eSTS.Operation.OpAppB.IsValidate(Boolean isDraft) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppB.aspx.cs:line 1233
+Exception Source            : mscorlib
+Time of Occurence           : 4/1/2022 8:00:23 AM
+Page                        : operation_opappb_aspx
+Method                      : IsValidate
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ToInt32(Object value)
+   at eSTS.Operation.OpAppB.IsValidate(Boolean isDraft) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppB.aspx.cs:line 1233
+Exception Source            : mscorlib
+Time of Occurence           : 4/1/2022 8:01:02 AM
+Page                        : operation_opappb_aspx
+Method                      : IsValidate
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at eSTS.Operation.ApplicantDashboardB.Page_Load(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApplicantDashboardB.aspx.cs:line 26
+Exception Source            : mscorlib
+Time of Occurence           : 4/1/2022 8:19:05 AM
+Page                        : operation_applicantdashboardb_aspx
+Method                      : Page_Load
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspiniaMethodB.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspiniaMethodB.Master.cs:line 283
+Exception Source            : mscorlib
+Time of Occurence           : 4/1/2022 8:20:03 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspiniaMethodB.cmdLogOut_Click(Object sender, EventArgs e)
+Exception Source            : mscorlib
+Time of Occurence           : 4/1/2022 8:26:37 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 4/1/2022 12:29:30 PM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.JLMPayment.btnUpdatePayment_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\JLMPayment.aspx.cs:line 139
+Exception Source            : eSTS
+Time of Occurence           : 4/1/2022 12:30:47 PM
+Page                        : operation_jlmpayment_aspx
+Method                      : btnUpdatePayment_Click
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.JLMPayment.btnUpdatePayment_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\JLMPayment.aspx.cs:line 139
+Exception Source            : eSTS
+Time of Occurence           : 4/1/2022 12:31:02 PM
+Page                        : operation_jlmpayment_aspx
+Method                      : btnUpdatePayment_Click
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at System.Data.Objects.ELinq.QueryParameterExpression.EvaluateParameter(Object[] arguments)
+   at System.Data.Objects.ELinq.ELinqQueryState.GetExecutionPlan(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   at System.Data.Objects.ELinq.ObjectQueryProvider.<>c__11`1.<GetElementFunction>b__11_1(IEnumerable`1 sequence)
+   at System.Data.Objects.ELinq.ObjectQueryProvider.ExecuteSingle[TResult](IEnumerable`1 query, Expression queryRoot)
+   at System.Data.Objects.ELinq.ObjectQueryProvider.System.Linq.IQueryProvider.Execute[S](Expression expression)
+   at System.Data.Entity.Internal.Linq.DbQueryProvider.Execute[TResult](Expression expression)
+   at System.Linq.Queryable.FirstOrDefault[TSource](IQueryable`1 source)
+   at eSTS.Operation.JLMPayment.btnUpdatePayment_Click(Object sender, EventArgs e)
+Exception Source            : System.Data.Entity
+Time of Occurence           : 4/1/2022 2:56:19 PM
+Page                        : operation_jlmpayment_aspx
+Method                      : btnUpdatePayment_Click
+-------------------------------------------------------------------------------

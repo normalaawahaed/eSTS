@@ -1,0 +1,394 @@
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 283
+Exception Source            : mscorlib
+Time of Occurence           : 22/11/2021 9:51:21 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.License.ShipLicenseInfo.btnSave_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\License\ShipLicenseInfo.aspx.cs:line 476
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 9:52:52 AM
+Page                        : license_shiplicenseinfo_aspx
+Method                      : btnSave_Click
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.License.ShipLicenseInfo.btnSave_Click(Object sender, EventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 9:54:32 AM
+Page                        : license_shiplicenseinfo_aspx
+Method                      : btnSave_Click
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.License.ShipLicenseInfo.btnSave_Click(Object sender, EventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 9:54:50 AM
+Page                        : license_shiplicenseinfo_aspx
+Method                      : btnSave_Click
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.License.ShipLicenseInfo.btnSave_Click(Object sender, EventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 9:55:52 AM
+Page                        : license_shiplicenseinfo_aspx
+Method                      : btnSave_Click
+-------------------------------------------------------------------------------
+Exception Message           : Response.Redirect cannot be called in a Page callback.
+Details                     : System.ApplicationException: Response.Redirect cannot be called in a Page callback.
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at eSTS.Operation.OperationList.Page_Load(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 28
+Exception Source            : System.Web
+Time of Occurence           : 22/11/2021 11:27:10 AM
+Page                        : operation_operationlist_aspx
+Method                      : Page_Load
+-------------------------------------------------------------------------------
+Exception Message           : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Details                     : System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception (0x80004005): The network path was not found
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Apps.Auth.DALAccessModule.GetModuleDesc_ByModuleLink(String& pageName, String& pagelink, String& ParentName, String& ParentLink, String ModuleLink) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Auth\DAL\DALAccessModule.cs:line 376
+   at eSTS.SiteInspinia.SetPageTitle() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 41
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20
+Exception Source            : .Net SqlClient Data Provider
+Time of Occurence           : 22/11/2021 11:27:25 AM
+Page                        : siteinspinia_master
+Method                      : SetPageTitle
+-------------------------------------------------------------------------------
+Exception Message           : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Details                     : System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception (0x80004005): The network path was not found
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20
+Exception Source            : .Net SqlClient Data Provider
+Time of Occurence           : 22/11/2021 11:27:48 AM
+Page                        : operation_operationlist_aspx
+Method                      : dsComplete_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 46
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 11:27:48 AM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 46
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 11:27:48 AM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 46
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 11:27:48 AM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 46
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 11:27:48 AM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 46
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 11:27:48 AM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 46
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 11:27:48 AM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 46
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 11:27:48 AM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 46
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 11:27:48 AM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 46
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 11:27:48 AM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 46
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 11:27:48 AM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 46
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 11:27:48 AM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 46
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 11:27:48 AM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 46
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 11:27:48 AM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 46
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 11:27:48 AM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 46
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 11:27:48 AM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 46
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 11:27:48 AM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 46
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 11:27:48 AM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 46
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 11:27:48 AM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 46
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 11:27:48 AM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 46
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 11:27:49 AM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 46
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 11:27:49 AM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 46
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 11:27:49 AM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 46
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 11:27:49 AM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 46
+Exception Source            : eSTS
+Time of Occurence           : 22/11/2021 11:27:49 AM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Details                     : System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception (0x80004005): The network path was not found
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at System.Data.EntityClient.EntityConnection.OpenStoreConnectionIf(Boolean openCondition, DbConnection storeConnectionToOpen, DbConnection originalConnection, String exceptionCode, String attemptedOperation, Boolean& closeStoreConnectionOnFailure)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20
+Exception Source            : .Net SqlClient Data Provider
+Time of Occurence           : 22/11/2021 11:28:04 AM
+Page                        : operation_operationlist_aspx
+Method                      : dsComplete_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at eSTS.Operation.OperationList.Page_Load(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 28
+Exception Source            : mscorlib
+Time of Occurence           : 22/11/2021 11:28:04 AM
+Page                        : operation_operationlist_aspx
+Method                      : Page_Load
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at eSTS.Operation.OperationList.Page_Load(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 28
+Exception Source            : mscorlib
+Time of Occurence           : 22/11/2021 11:28:04 AM
+Page                        : operation_operationlist_aspx
+Method                      : Page_Load
+-------------------------------------------------------------------------------
+Exception Message           : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Details                     : System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception (0x80004005): The network path was not found
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at eSTS.DAL.DALUsers.CheckExistByUserIDPass1(String OrgzID, String userID, String userPass) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\DAL\DALUsers.cs:line 54
+   at eSTS.SignIn.btnLogin_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SignIn.aspx.cs:line 115
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20
+Exception Source            : .Net SqlClient Data Provider
+Time of Occurence           : 22/11/2021 11:31:52 AM
+Page                        : SignIn
+Method                      : btnLogin_Click
+-------------------------------------------------------------------------------
+Exception Message           : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+Details                     : System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception (0x80004005): The network path was not found
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at eSTS.DAL.DALUsers.LoadLoginGOV(String UserID) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\DAL\DALUsers.cs:line 234
+   at eSTS.InSTS.loadAccess(String UserID) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\InSTS.aspx.cs:line 134
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20
+Exception Source            : .Net SqlClient Data Provider
+Time of Occurence           : 22/11/2021 11:53:08 AM
+Page                        : InSTS
+Method                      : loadAccess
+-------------------------------------------------------------------------------

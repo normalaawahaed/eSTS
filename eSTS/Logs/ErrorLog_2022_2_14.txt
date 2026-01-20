@@ -1,0 +1,97 @@
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 14/2/2022 7:48:57 AM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.SystemSetup.AccessModule.grid_RowUpdating(Object sender, ASPxDataUpdatingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessModule.aspx.cs:line 79
+Exception Source            : eSTS
+Time of Occurence           : 14/2/2022 7:50:14 AM
+Page                        : systemsetup_accessmodule_aspx
+Method                      : grid_RowUpdating
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at Apps.Auth.DALAccessModule.CheckAccessLink(String accessGroupID, String ModuleLink) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Auth\DAL\DALAccessModule.cs:line 426
+   at eSTS.SiteInspinia.SetPageTitle() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 50
+Exception Source            : Apps.Auth
+Time of Occurence           : 14/2/2022 10:22:52 AM
+Page                        : siteinspinia_master
+Method                      : SetPageTitle
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at Apps.Auth.DALAccessModule.CheckAccessLink(String accessGroupID, String ModuleLink) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Auth\DAL\DALAccessModule.cs:line 426
+   at eSTS.SiteInspinia.SetPageTitle() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 50
+Exception Source            : Apps.Auth
+Time of Occurence           : 14/2/2022 10:24:33 AM
+Page                        : siteinspinia_master
+Method                      : SetPageTitle
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e)
+Exception Source            : mscorlib
+Time of Occurence           : 14/2/2022 10:26:06 AM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e)
+Exception Source            : mscorlib
+Time of Occurence           : 14/2/2022 10:26:18 AM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Must declare the scalar variable "@sts_casenum".
+Details                     : System.Data.SqlClient.SqlException (0x80131904): Must declare the scalar variable "@sts_casenum".
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at eSTS.Operation.UploadCMBL.PushToPJ(v_Integration item)
+ClientConnectionId:b7ccac6d-5f40-402d-9a4d-6e0f6d039269
+Error Number:137,State:2,Class:15
+Exception Source            : .Net SqlClient Data Provider
+Time of Occurence           : 14/2/2022 10:58:34 AM
+Page                        : operation_uploadcmbl_aspx
+Method                      : PushToPJ
+-------------------------------------------------------------------------------
+Exception Message           : The parameterized query '(@sts_casenum nvarchar(15),@AgentID nvarchar(7),@AgentName nvarc' expects the parameter '@BLAttachLink', which was not supplied.
+Details                     : System.Data.SqlClient.SqlException (0x80131904): The parameterized query '(@sts_casenum nvarchar(15),@AgentID nvarchar(7),@AgentName nvarc' expects the parameter '@BLAttachLink', which was not supplied.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at eSTS.Operation.UploadCMBL.PushToPJ(v_Integration item)
+ClientConnectionId:b7ccac6d-5f40-402d-9a4d-6e0f6d039269
+Error Number:8178,State:1,Class:16
+Exception Source            : .Net SqlClient Data Provider
+Time of Occurence           : 14/2/2022 11:07:54 AM
+Page                        : operation_uploadcmbl_aspx
+Method                      : PushToPJ
+-------------------------------------------------------------------------------

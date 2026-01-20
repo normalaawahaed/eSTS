@@ -1,0 +1,849 @@
+C:\Users\MALAPPSB\Documents\Workspace\Projects\Test\hrms\apps\Apps.Common\bin\Debug\Apps.Common.dll
+C:\Users\MALAPPSB\Documents\Workspace\Projects\Test\hrms\apps\Apps.Common\bin\Debug\Apps.Common.pdb
+C:\Users\MALAPPSB\Documents\Workspace\Projects\Test\hrms\apps\Apps.Common\obj\Debug\Apps.Common.dll
+C:\Users\MALAPPSB\Documents\Workspace\Projects\Test\hrms\apps\Apps.Common\obj\Debug\Apps.Common.pdb
+D:\Workspace\Project\hrms\apps\Apps.Common\bin\Debug\Apps.Common.dll
+D:\Workspace\Project\hrms\apps\Apps.Common\bin\Debug\Apps.Common.pdb
+D:\Workspace\Project\hrms\apps\Apps.Common\obj\Debug\Apps.Common.csprojResolveAssemblyReference.cache
+D:\Workspace\Project\hrms\apps\Apps.Common\obj\Debug\Apps.Common.dll
+D:\Workspace\Project\hrms\apps\Apps.Common\obj\Debug\Apps.Common.pdb
+D:\Workspace\Project\hrms\source code\hrms\Apps.Common\bin\Debug\Apps.Common.dll.config
+D:\Workspace\Project\hrms\source code\hrms\Apps.Common\bin\Debug\Apps.Common.dll
+D:\Workspace\Project\hrms\source code\hrms\Apps.Common\bin\Debug\Apps.Common.pdb
+D:\Workspace\Project\hrms\source code\hrms\Apps.Common\bin\Debug\EntityFramework.dll
+D:\Workspace\Project\hrms\source code\hrms\Apps.Common\bin\Debug\EntityFramework.xml
+D:\Workspace\Project\hrms\source code\hrms\Apps.Common\obj\Debug\Apps.Common.csprojResolveAssemblyReference.cache
+D:\Workspace\Project\hrms\source code\hrms\Apps.Common\obj\Debug\Apps.Common.dll
+D:\Workspace\Project\hrms\source code\hrms\Apps.Common\obj\Debug\Apps.Common.pdb
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\Apps.Common.dll.config
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\Apps.Common.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\Apps.Common.pdb
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Web.ASPxGauges.v18.2.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Web.ASPxHtmlEditor.v18.2.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Web.ASPxScheduler.v18.2.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Web.ASPxSpreadsheet.v18.2.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Web.ASPxThemes.v18.2.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Web.ASPxTreeList.v18.2.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Web.Bootstrap.v18.2.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Web.v18.2.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\EntityFramework.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Data.v18.2.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Web.ASPxSpellChecker.v18.2.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.SpellChecker.v18.2.Core.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Office.v18.2.Core.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.XtraScheduler.v18.2.Core.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Spreadsheet.v18.2.Core.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Web.ASPxRichEdit.v18.2.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Web.Resources.v18.2.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Images.v18.2.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.DataAccess.v18.2.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Xpo.v18.2.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.CodeParser.v18.2.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Web.ASPxGauges.v18.2.xml
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Web.ASPxHtmlEditor.v18.2.xml
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Web.ASPxScheduler.v18.2.xml
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Web.ASPxSpreadsheet.v18.2.xml
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Web.ASPxTreeList.v18.2.xml
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Web.Bootstrap.v18.2.xml
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Web.v18.2.xml
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\EntityFramework.xml
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Data.v18.2.xml
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Web.ASPxSpellChecker.v18.2.xml
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.SpellChecker.v18.2.Core.xml
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Office.v18.2.Core.xml
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.XtraScheduler.v18.2.Core.xml
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Spreadsheet.v18.2.Core.xml
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Web.ASPxRichEdit.v18.2.xml
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.DataAccess.v18.2.xml
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\DevExpress.Xpo.v18.2.xml
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxHtmlEditor.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxHtmlEditor.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxHtmlEditor.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxHtmlEditor.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxTreeList.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxTreeList.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxTreeList.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxTreeList.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\de\DevExpress.Web.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\es\DevExpress.Web.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ja\DevExpress.Web.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ru\DevExpress.Web.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\de\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\es\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ja\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ru\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\de\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\es\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ja\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ru\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\de\DevExpress.Web.Resources.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\es\DevExpress.Web.Resources.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ja\DevExpress.Web.Resources.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ru\DevExpress.Web.Resources.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\obj\Debug\Apps.Common.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Common\obj\Debug\Apps.Common.pdb
+D:\Workspace\Project\hrms\source code\hrmis\Apps.Common\obj\Debug\Apps.Common.csprojResolveAssemblyReference.cache
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\Apps.Common.dll.config
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\Apps.Common.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\Apps.Common.pdb
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Web.ASPxGauges.v18.2.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Web.ASPxHtmlEditor.v18.2.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Web.ASPxScheduler.v18.2.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Web.ASPxSpreadsheet.v18.2.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Web.ASPxThemes.v18.2.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Web.ASPxTreeList.v18.2.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Web.Bootstrap.v18.2.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Web.v18.2.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\EntityFramework.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Data.v18.2.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Web.ASPxSpellChecker.v18.2.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.SpellChecker.v18.2.Core.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Office.v18.2.Core.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.XtraScheduler.v18.2.Core.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Spreadsheet.v18.2.Core.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Web.ASPxRichEdit.v18.2.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Web.Resources.v18.2.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Images.v18.2.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.DataAccess.v18.2.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Xpo.v18.2.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.CodeParser.v18.2.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Web.ASPxGauges.v18.2.xml
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Web.ASPxHtmlEditor.v18.2.xml
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Web.ASPxScheduler.v18.2.xml
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Web.ASPxSpreadsheet.v18.2.xml
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Web.ASPxTreeList.v18.2.xml
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Web.Bootstrap.v18.2.xml
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Web.v18.2.xml
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\EntityFramework.xml
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Data.v18.2.xml
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Web.ASPxSpellChecker.v18.2.xml
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.SpellChecker.v18.2.Core.xml
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Office.v18.2.Core.xml
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.XtraScheduler.v18.2.Core.xml
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Spreadsheet.v18.2.Core.xml
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Web.ASPxRichEdit.v18.2.xml
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.DataAccess.v18.2.xml
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\DevExpress.Xpo.v18.2.xml
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxHtmlEditor.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxHtmlEditor.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxHtmlEditor.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxHtmlEditor.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxTreeList.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxTreeList.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxTreeList.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxTreeList.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\de\DevExpress.Web.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\es\DevExpress.Web.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ja\DevExpress.Web.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ru\DevExpress.Web.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\de\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\es\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ja\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ru\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\de\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\es\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ja\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ru\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\de\DevExpress.Web.Resources.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\es\DevExpress.Web.Resources.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ja\DevExpress.Web.Resources.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ru\DevExpress.Web.Resources.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\obj\Debug\Apps.Common.csprojResolveAssemblyReference.cache
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\obj\Debug\Apps.Common.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Common\obj\Debug\Apps.Common.pdb
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\Apps.Common.dll.config
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\Apps.Common.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\Apps.Common.pdb
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\COMMON.Lib.BizLogic.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxGauges.v18.2.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxHtmlEditor.v18.2.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxScheduler.v18.2.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxSpreadsheet.v18.2.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxThemes.v18.2.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxTreeList.v18.2.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.Bootstrap.v18.2.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.v18.2.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\Nusoft.Lib.Database.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\Nusoft.Lib.Security.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Data.v18.2.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxSpellChecker.v18.2.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.SpellChecker.v18.2.Core.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Office.v18.2.Core.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.XtraScheduler.v18.2.Core.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Spreadsheet.v18.2.Core.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxRichEdit.v18.2.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.Resources.v18.2.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Images.v18.2.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.DataAccess.v18.2.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Xpo.v18.2.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.CodeParser.v18.2.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxGauges.v18.2.xml
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxHtmlEditor.v18.2.xml
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxScheduler.v18.2.xml
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxSpreadsheet.v18.2.xml
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxTreeList.v18.2.xml
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.Bootstrap.v18.2.xml
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.v18.2.xml
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Data.v18.2.xml
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxSpellChecker.v18.2.xml
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.SpellChecker.v18.2.Core.xml
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Office.v18.2.Core.xml
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.XtraScheduler.v18.2.Core.xml
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Spreadsheet.v18.2.Core.xml
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxRichEdit.v18.2.xml
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.DataAccess.v18.2.xml
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Xpo.v18.2.xml
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxHtmlEditor.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxHtmlEditor.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxHtmlEditor.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxHtmlEditor.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxTreeList.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxTreeList.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxTreeList.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxTreeList.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Web.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Web.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Web.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Web.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Web.Resources.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Web.Resources.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Web.Resources.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Web.Resources.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\obj\Debug\Apps.Common.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\obj\Debug\Apps.Common.pdb
+D:\Workspace\Project\eBunkering\Source Code\Apps.Common\obj\Debug\Apps.Common.csprojResolveAssemblyReference.cache
+C:\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\Apps.Common.dll.config
+C:\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\Apps.Common.dll
+C:\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\Apps.Common.pdb
+C:\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\COMMON.Lib.BizLogic.dll
+C:\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\Nusoft.Lib.Database.dll
+C:\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\Nusoft.Lib.Security.dll
+C:\Workspace\eBunkering\Source Code\Apps.Common\obj\Debug\Apps.Common.csprojResolveAssemblyReference.cache
+C:\Workspace\eBunkering\Source Code\Apps.Common\obj\Debug\Apps.Common.dll
+C:\Workspace\eBunkering\Source Code\Apps.Common\obj\Debug\Apps.Common.pdb
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\Apps.Common.dll.config
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\Apps.Common.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\Apps.Common.pdb
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\COMMON.Lib.BizLogic.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxGauges.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxHtmlEditor.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxScheduler.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxSpreadsheet.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxThemes.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxTreeList.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.Bootstrap.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\Nusoft.Lib.Database.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\Nusoft.Lib.Security.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxSpellChecker.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.SpellChecker.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.XtraScheduler.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Spreadsheet.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxRichEdit.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.Resources.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.DataAccess.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Xpo.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.CodeParser.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxGauges.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxHtmlEditor.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxScheduler.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxSpreadsheet.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxTreeList.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.Bootstrap.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxSpellChecker.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.SpellChecker.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.XtraScheduler.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Spreadsheet.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxRichEdit.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.DataAccess.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Xpo.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxHtmlEditor.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxHtmlEditor.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxHtmlEditor.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxHtmlEditor.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxTreeList.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxTreeList.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxTreeList.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxTreeList.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Web.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Web.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Web.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Web.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Web.Resources.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Web.Resources.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Web.Resources.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Web.Resources.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\obj\Debug\Apps.Common.csprojResolveAssemblyReference.cache
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\obj\Debug\Apps.Common.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Common\obj\Debug\Apps.Common.pdb
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\Apps.Common.dll.config
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\Apps.Common.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\Apps.Common.pdb
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\COMMON.Lib.BizLogic.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxGauges.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxHtmlEditor.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxScheduler.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxSpreadsheet.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxThemes.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxTreeList.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.Bootstrap.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\Nusoft.Lib.Database.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\Nusoft.Lib.Security.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxSpellChecker.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.SpellChecker.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.XtraScheduler.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Spreadsheet.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxRichEdit.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.Resources.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.DataAccess.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Xpo.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.CodeParser.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxGauges.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxHtmlEditor.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxScheduler.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxSpreadsheet.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxTreeList.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.Bootstrap.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxSpellChecker.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.SpellChecker.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.XtraScheduler.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Spreadsheet.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Web.ASPxRichEdit.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.DataAccess.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\DevExpress.Xpo.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxHtmlEditor.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxHtmlEditor.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxHtmlEditor.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxHtmlEditor.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxTreeList.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxTreeList.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxTreeList.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxTreeList.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Web.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Web.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Web.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Web.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Web.Resources.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Web.Resources.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Web.Resources.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Web.Resources.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\obj\Debug\Apps.Common.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\obj\Debug\Apps.Common.pdb
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Common\obj\Debug\Apps.Common.csprojResolveAssemblyReference.cache
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\Apps.Common.dll.config
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\Apps.Common.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\Apps.Common.pdb
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Web.ASPxGauges.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Web.ASPxHtmlEditor.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Web.ASPxScheduler.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Web.ASPxSpreadsheet.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Web.ASPxThemes.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Web.ASPxTreeList.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Web.Bootstrap.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Web.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Web.ASPxSpellChecker.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.SpellChecker.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.XtraScheduler.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Spreadsheet.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Web.ASPxRichEdit.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Web.Resources.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.DataAccess.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Xpo.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.CodeParser.v18.2.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Web.ASPxGauges.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Web.ASPxHtmlEditor.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Web.ASPxScheduler.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Web.ASPxSpreadsheet.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Web.ASPxTreeList.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Web.Bootstrap.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Web.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Web.ASPxSpellChecker.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.SpellChecker.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.XtraScheduler.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Spreadsheet.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Web.ASPxRichEdit.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.DataAccess.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\DevExpress.Xpo.v18.2.xml
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxHtmlEditor.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxHtmlEditor.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxHtmlEditor.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxHtmlEditor.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxScheduler.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxSpreadsheet.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxTreeList.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxTreeList.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxTreeList.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxTreeList.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\de\DevExpress.Web.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\es\DevExpress.Web.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ja\DevExpress.Web.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ru\DevExpress.Web.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxSpellChecker.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\de\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\es\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ja\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ru\DevExpress.XtraScheduler.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\de\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\es\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ja\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ru\DevExpress.Spreadsheet.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\de\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\es\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ja\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ru\DevExpress.Web.ASPxRichEdit.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\de\DevExpress.Web.Resources.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\es\DevExpress.Web.Resources.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ja\DevExpress.Web.Resources.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ru\DevExpress.Web.Resources.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\obj\Debug\Apps.Common.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\obj\Debug\Apps.Common.pdb
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Common\obj\Debug\Apps.Common.csprojResolveAssemblyReference.cache

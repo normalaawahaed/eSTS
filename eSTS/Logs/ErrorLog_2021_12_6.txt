@@ -1,0 +1,352 @@
+Exception Message           : Unrecognized Guid format.
+Details                     : System.FormatException: Unrecognized Guid format.
+   at System.Guid.TryParseGuid(String g, GuidStyles flags, GuidResult& result)
+   at System.Guid..ctor(String g)
+   at eSTS.Operation.OpAppB.ControlForm() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppB.aspx.cs:line 161
+   at eSTS.Operation.OpAppB.Page_Load(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppB.aspx.cs:line 71
+Exception Source            : mscorlib
+Time of Occurence           : 6/12/2021 9:16:05 AM
+Page                        : operation_opappb_aspx
+Method                      : Page_Load
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppB.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppB.aspx.cs:line 580
+Exception Source            : eSTS
+Time of Occurence           : 6/12/2021 9:16:05 AM
+Page                        : operation_opappb_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspiniaMethodB.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspiniaMethodB.Master.cs:line 276
+Exception Source            : mscorlib
+Time of Occurence           : 6/12/2021 9:16:30 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 283
+Exception Source            : mscorlib
+Time of Occurence           : 6/12/2021 9:32:21 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Unrecognized Guid format.
+Details                     : System.FormatException: Unrecognized Guid format.
+   at System.Guid.TryParseGuid(String g, GuidStyles flags, GuidResult& result)
+   at System.Guid..ctor(String g)
+   at eSTS.Operation.OpAppB.ControlForm() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppB.aspx.cs:line 161
+   at eSTS.Operation.OpAppB.Page_Load(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppB.aspx.cs:line 71
+Exception Source            : mscorlib
+Time of Occurence           : 6/12/2021 9:32:36 AM
+Page                        : operation_opappb_aspx
+Method                      : Page_Load
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppB.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppB.aspx.cs:line 580
+Exception Source            : eSTS
+Time of Occurence           : 6/12/2021 9:32:36 AM
+Page                        : operation_opappb_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Unrecognized Guid format.
+Details                     : System.FormatException: Unrecognized Guid format.
+   at System.Guid.TryParseGuid(String g, GuidStyles flags, GuidResult& result)
+   at System.Guid..ctor(String g)
+   at eSTS.Operation.OpAppB.ControlForm() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppB.aspx.cs:line 161
+   at eSTS.Operation.OpAppB.Page_Load(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppB.aspx.cs:line 71
+Exception Source            : mscorlib
+Time of Occurence           : 6/12/2021 9:32:47 AM
+Page                        : operation_opappb_aspx
+Method                      : Page_Load
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppB.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppB.aspx.cs:line 580
+Exception Source            : eSTS
+Time of Occurence           : 6/12/2021 9:32:47 AM
+Page                        : operation_opappb_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Unrecognized Guid format.
+Details                     : System.FormatException: Unrecognized Guid format.
+   at System.Guid.TryParseGuid(String g, GuidStyles flags, GuidResult& result)
+   at System.Guid..ctor(String g)
+   at eSTS.Operation.OpAppA.ControlForm() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 161
+   at eSTS.Operation.OpAppA.Page_Load(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 70
+Exception Source            : mscorlib
+Time of Occurence           : 6/12/2021 9:32:51 AM
+Page                        : operation_opappa_aspx
+Method                      : Page_Load
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 591
+Exception Source            : eSTS
+Time of Occurence           : 6/12/2021 9:32:51 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Unrecognized Guid format.
+Details                     : System.FormatException: Unrecognized Guid format.
+   at System.Guid.TryParseGuid(String g, GuidStyles flags, GuidResult& result)
+   at System.Guid..ctor(String g)
+   at eSTS.Operation.OpAppA.ControlForm()
+   at eSTS.Operation.OpAppA.Page_Load(Object sender, EventArgs e)
+Exception Source            : mscorlib
+Time of Occurence           : 6/12/2021 9:47:16 AM
+Page                        : operation_opappa_aspx
+Method                      : Page_Load
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 6/12/2021 9:47:16 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 6/12/2021 9:47:45 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at eSTS.Operation.OpAppA.Page_Load(Object sender, EventArgs e)
+Exception Source            : mscorlib
+Time of Occurence           : 6/12/2021 10:14:40 AM
+Page                        : operation_opappa_aspx
+Method                      : Page_Load
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 6/12/2021 10:15:40 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 6/12/2021 10:15:46 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 6/12/2021 10:19:03 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 6/12/2021 10:19:26 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 6/12/2021 10:20:09 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 6/12/2021 10:20:33 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 6/12/2021 10:20:36 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at eSTS.Operation.OpAppB.Page_Load(Object sender, EventArgs e)
+Exception Source            : mscorlib
+Time of Occurence           : 6/12/2021 10:44:51 AM
+Page                        : operation_opappb_aspx
+Method                      : Page_Load
+-------------------------------------------------------------------------------
+Exception Message           : Unrecognized Guid format.
+Details                     : System.FormatException: Unrecognized Guid format.
+   at System.Guid.TryParseGuid(String g, GuidStyles flags, GuidResult& result)
+   at System.Guid..ctor(String g)
+   at eSTS.Operation.OpAppB.ControlForm()
+   at eSTS.Operation.OpAppB.Page_Load(Object sender, EventArgs e)
+Exception Source            : mscorlib
+Time of Occurence           : 6/12/2021 10:45:36 AM
+Page                        : operation_opappb_aspx
+Method                      : Page_Load
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppB.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 6/12/2021 10:45:36 AM
+Page                        : operation_opappb_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppB.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 6/12/2021 10:45:59 AM
+Page                        : operation_opappb_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppB.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 6/12/2021 10:46:08 AM
+Page                        : operation_opappb_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppB.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 6/12/2021 10:46:20 AM
+Page                        : operation_opappb_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 283
+Exception Source            : mscorlib
+Time of Occurence           : 6/12/2021 12:30:28 PM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 591
+Exception Source            : eSTS
+Time of Occurence           : 6/12/2021 12:30:51 PM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 591
+Exception Source            : eSTS
+Time of Occurence           : 6/12/2021 12:30:57 PM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 591
+Exception Source            : eSTS
+Time of Occurence           : 6/12/2021 12:31:00 PM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 283
+Exception Source            : mscorlib
+Time of Occurence           : 6/12/2021 12:33:33 PM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.SiteInspinia.SetPageTitle() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 76
+Exception Source            : eSTS
+Time of Occurence           : 6/12/2021 2:15:47 PM
+Page                        : siteinspinia_master
+Method                      : SetPageTitle
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 283
+Exception Source            : mscorlib
+Time of Occurence           : 6/12/2021 2:15:47 PM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : String was not recognized as a valid DateTime.
+Details                     : System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at eSTS.Operation.ApplicantDashboard.grid_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApplicantDashboard.aspx.cs:line 81
+Exception Source            : mscorlib
+Time of Occurence           : 6/12/2021 2:16:03 PM
+Page                        : operation_applicantdashboard_aspx
+Method                      : grid_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : String was not recognized as a valid DateTime.
+Details                     : System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at eSTS.Operation.ApplicantDashboard.grid_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApplicantDashboard.aspx.cs:line 81
+Exception Source            : mscorlib
+Time of Occurence           : 6/12/2021 2:16:03 PM
+Page                        : operation_applicantdashboard_aspx
+Method                      : grid_HtmlDataCellPrepared
+-------------------------------------------------------------------------------

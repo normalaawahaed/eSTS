@@ -1,0 +1,56 @@
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.SystemSetup.AccessGroup.grid_RowInserting(Object sender, ASPxDataInsertingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroup.aspx.cs:line 34
+Exception Source            : eSTS
+Time of Occurence           : 26/12/2021 8:43:35 AM
+Page                        : systemsetup_accessgroup_aspx
+Method                      : grid_RowInserting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.SystemSetup.AccessGroup.grid_RowInserting(Object sender, ASPxDataInsertingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroup.aspx.cs:line 34
+Exception Source            : eSTS
+Time of Occurence           : 26/12/2021 8:43:48 AM
+Page                        : systemsetup_accessgroup_aspx
+Method                      : grid_RowInserting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.SystemSetup.AccessGroup.grid_RowInserting(Object sender, ASPxDataInsertingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroup.aspx.cs:line 34
+Exception Source            : eSTS
+Time of Occurence           : 26/12/2021 8:53:49 AM
+Page                        : systemsetup_accessgroup_aspx
+Method                      : grid_RowInserting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.SystemSetup.AccessGroup.grid_RowInserting(Object sender, ASPxDataInsertingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroup.aspx.cs:line 38
+Exception Source            : eSTS
+Time of Occurence           : 26/12/2021 8:54:12 AM
+Page                        : systemsetup_accessgroup_aspx
+Method                      : grid_RowInserting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.SystemSetup.AccessGroup.grid_RowInserting(Object sender, ASPxDataInsertingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroup.aspx.cs:line 38
+Exception Source            : eSTS
+Time of Occurence           : 26/12/2021 8:54:23 AM
+Page                        : systemsetup_accessgroup_aspx
+Method                      : grid_RowInserting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.SystemSetup.AccessGroup.grid_RowInserting(Object sender, ASPxDataInsertingEventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 26/12/2021 8:55:04 AM
+Page                        : systemsetup_accessgroup_aspx
+Method                      : grid_RowInserting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.SystemSetup.AccessGroup.grid_RowInserting(Object sender, ASPxDataInsertingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroup.aspx.cs:line 34
+Exception Source            : eSTS
+Time of Occurence           : 26/12/2021 9:05:01 AM
+Page                        : systemsetup_accessgroup_aspx
+Method                      : grid_RowInserting
+-------------------------------------------------------------------------------

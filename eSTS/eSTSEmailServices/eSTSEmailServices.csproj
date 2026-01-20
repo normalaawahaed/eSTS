@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{40F85B00-954A-42FC-9103-963AC67352E4}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>eSTSEmailServices</RootNamespace>
+    <AssemblyName>eSTSEmailServices</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.5.0.0\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\bin\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Database\AccessGroup.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\AccessGroupModule.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\AccessModule.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\AuditLog.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\CompanyProfile.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\EmailModule.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\EmailSendLog.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\EmailTemplate.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\eSTS.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>eSTS.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\eSTS.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\eSTS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>eSTS.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Database\FlowActionEmail.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\FlowActionStatu.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\FlowModuleLayer.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\LicCompany.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\LicCompanyAttach.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\LicCompanyVessel.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\LicCompanyVesselAttach.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\log.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\ModuleAttachDoc.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\MSDeliveryLoc.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\MSDocType.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\MSOilCategory.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\MSOilClass.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\MSOilType.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\MSPermitIssuer.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\MSPortLocation.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\MSSupplyMethod.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\MSUOM.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\OpAppointAgent.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\OpCaseNum.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\OperationApp.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\OperationAppAttach.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\OperationAppFlow.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\OwnerInfo.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\PendingEmail.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\SystemParam.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\TblMailServer.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\User.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\v_AccessGroupModule.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\v_AccessModule.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\v_AdminUsers.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\v_AppointAgent.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\v_AppointAgentNew.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\v_FlowActionStatus.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\v_Integration.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\v_IntegrationFlow.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\v_LicCompany.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\v_LicCompanyActive.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\v_LicCompanyAttach.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\v_LicCompanyVesselAttach.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\v_OperationApp.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\v_OperationAppAttach.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\v_OperationAppFlow.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\v_opGroupEmail.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\v_OpLicCompanyVessel.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\v_Permit.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\v_STSOperator.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\v_SuppDoc.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\v_users.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Database\v_UsersSASO.cs">
+      <DependentUpon>eSTS.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SendEmailService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.Config" />
+    <None Include="Database\App.config" />
+    <EntityDeploy Include="Database\eSTS.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>eSTS.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Database\eSTS.edmx.diagram">
+      <DependentUpon>eSTS.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Database\eSTS.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>eSTS.edmx</DependentUpon>
+      <LastGenOutput>eSTS.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Database\eSTS.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>eSTS.edmx</DependentUpon>
+      <LastGenOutput>eSTS.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Apps.Common\Apps.Common.csproj">
+      <Project>{5e3ceaed-f0e7-4bcc-ab9b-3e1aa8f9622c}</Project>
+      <Name>Apps.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

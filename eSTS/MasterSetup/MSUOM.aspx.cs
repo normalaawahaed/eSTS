@@ -1,0 +1,84 @@
+﻿using Apps.Common;
+using eSTS.Database;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+namespace eSTS.MasterSetup
+{
+    public partial class MSUOM : System.Web.UI.Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            //Check Session
+            if ((Session["UserID"] == null) && (Session["UserGroup"] == null))//&& (Session["UserLevel"] != null))
+            {
+                Response.Redirect("~//SignIn.aspx", true);
+            }
+        }
+
+        protected void grid_RowInserting(object sender, DevExpress.Web.Data.ASPxDataInsertingEventArgs e)
+        {
+            try
+            {
+                using (eSTS_StagEntities dbContext = new eSTS_StagEntities())
+                {
+                    eSTS.Database.MSUOM item = new eSTS.Database.MSUOM();
+
+                    item.UOMID = Guid.NewGuid();
+                    item.UOMCode = e.NewValues["UOMCode"].ToString();
+                    item.UOMDesc = e.NewValues["UOMDesc"].ToString();
+                   
+                    item.IsActive = Convert.ToBoolean(e.NewValues["IsActive"]);
+                    item.CreatedBy = Session["UserID"].ToString();
+                    item.CreatedDate = DateTime.Now;
+
+                    dbContext.MSUOMs.Add(item);
+                    dbContext.SaveChanges();
+                    dsUOM.DataBind();
+
+                    grid.CancelEdit();
+                    e.Cancel = true;
+                }
+            }
+            catch (Exception ex)
+            {
+                Log.WriteLog(ex, this.GetType().Name, System.Reflection.MethodBase.GetCurrentMethod().Name.ToString());
+            }
+
+        }
+
+        protected void grid_RowUpdating(object sender, DevExpress.Web.Data.ASPxDataUpdatingEventArgs e)
+        {
+            try
+            {
+                using (eSTS_StagEntities dbContext = new eSTS_StagEntities())
+                {
+
+                    var item = dbContext.MSUOMs.Find(new Guid(e.Keys[0].ToString()));
+
+                    item.UOMCode = e.NewValues["UOMCode"].ToString();
+                    item.UOMDesc = e.NewValues["UOMDesc"].ToString();
+
+                    item.IsActive = Convert.ToBoolean(e.NewValues["IsActive"]);
+
+                    item.UpdatedBy = Session["UserID"].ToString();
+                    item.UpdatedDate = DateTime.Now;
+
+                    dbContext.SaveChanges();
+                    dsUOM.DataBind();
+
+                    grid.CancelEdit();
+                    e.Cancel = true;
+                }
+            }
+            catch (Exception ex)
+            {
+                Log.WriteLog(ex, this.GetType().Name, System.Reflection.MethodBase.GetCurrentMethod().Name.ToString());
+            }
+        }
+    }
+}

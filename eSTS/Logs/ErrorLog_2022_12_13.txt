@@ -1,0 +1,12 @@
+Exception Message           : The connection was not closed. The connection's current state is open.
+Details                     : System.InvalidOperationException: The connection was not closed. The connection's current state is open.
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at eSTS.DAL.DALSync.SyncLicenseEB() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\DAL\DALSync.cs:line 614
+Exception Source            : System.Data
+Time of Occurence           : 13/12/2022 2:46:48 PM
+Page                        : DALSync
+Method                      : SyncLicenseEB
+-------------------------------------------------------------------------------

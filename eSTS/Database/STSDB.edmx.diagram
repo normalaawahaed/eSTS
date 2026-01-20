@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3031c40f9e4947beb922ff7a71c45261" Name="Diagram1" ZoomLevel="78">
+        <EntityTypeShape EntityType="eSTS_StagModel.AccessGroup" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.AccessGroupModule" Width="1.5" PointX="2.75" PointY="0.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.AccessModule" Width="1.5" PointX="4.75" PointY="0.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.AuditLog" Width="1.5" PointX="0.75" PointY="5.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.CompanyProfile" Width="1.5" PointX="2.75" PointY="5.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.EmailModule" Width="1.5" PointX="4.75" PointY="5.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.EmailTemplate" Width="1.5" PointX="6.75" PointY="4.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.FlowActionEmail" Width="1.5" PointX="8.75" PointY="0.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.FlowActionStatu" Width="1.5" PointX="8.75" PointY="4.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.FlowModuleLayer" Width="1.5" PointX="4.75" PointY="8.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.LicCompany" Width="1.5" PointX="6.75" PointY="8.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.LicCompanyAttach" Width="1.5" PointX="8.75" PointY="8.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.LicCompanyVesselAttach" Width="1.5" PointX="0.75" PointY="10.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.log" Width="1.5" PointX="10.75" PointY="11.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.ModuleAttachDoc" Width="1.5" PointX="12.75" PointY="0.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.MSDeliveryLoc" Width="1.5" PointX="12.75" PointY="3.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.MSDocType" Width="1.5" PointX="12.75" PointY="7.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.MSOilCategory" Width="1.5" PointX="12.75" PointY="11.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.MSOilClass" Width="1.5" PointX="2.75" PointY="13.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.MSOilType" Width="1.5" PointX="14.75" PointY="0.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.MSPermitIssuer" Width="1.5" PointX="14.75" PointY="4.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.MSPortLocation" Width="1.5" PointX="4.75" PointY="14.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.MSSupplyMethod" Width="1.5" PointX="6.75" PointY="14.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.MSUOM" Width="1.5" PointX="14.75" PointY="8.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.OpAppointAgent" Width="1.5" PointX="8.75" PointY="14.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.OpCaseNum" Width="1.5" PointX="14.75" PointY="12.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.OperationAppAttach" Width="1.5" PointX="12.75" PointY="15.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.OperationAppFlow" Width="1.5" PointX="14.75" PointY="15.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.OwnerInfo" Width="1.5" PointX="16.75" PointY="0.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.PendingEmail" Width="1.5" PointX="16.75" PointY="4.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.TblMailServer" Width="1.5" PointX="16.75" PointY="15.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.User" Width="1.5" PointX="0.75" PointY="17.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.v_AccessGroupModule" Width="1.5" PointX="18.75" PointY="0.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.v_AccessModule" Width="1.5" PointX="2.75" PointY="18.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.v_AdminUsers" Width="1.5" PointX="4.75" PointY="18.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.v_AppointAgent" Width="1.5" PointX="18.75" PointY="6.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.v_AppointAgentNew" Width="1.5" PointX="6.75" PointY="18.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.v_FlowActionStatus" Width="1.5" PointX="18.75" PointY="12.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.v_IntegrationFlow" Width="1.5" PointX="20.75" PointY="0.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.v_LicCompany" Width="1.5" PointX="20.75" PointY="5.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.v_LicCompanyActive" Width="1.5" PointX="20.75" PointY="10.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.v_LicCompanyAttach" Width="1.5" PointX="12.75" PointY="20.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.v_LicCompanyVesselAttach" Width="1.5" PointX="14.75" PointY="20.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.v_OperationAppAttach" Width="1.5" PointX="22.75" PointY="0.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.v_OperationAppFlow" Width="1.5" PointX="0.75" PointY="22.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.v_opGroupEmail" Width="1.5" PointX="22.75" PointY="5.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.v_STSOperator" Width="1.5" PointX="16.75" PointY="22.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.v_SuppDoc" Width="1.5" PointX="24.75" PointY="0.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.v_UsersSASO" Width="1.5" PointX="24.75" PointY="4.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.EmailSendLog" Width="1.5" PointX="25.375" PointY="11.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.LicCompanyVessel" Width="1.5" PointX="9.375" PointY="18.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.v_OpLicCompanyVessel" Width="1.5" PointX="25.375" PointY="15.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.v_Permit" Width="1.5" PointX="21.375" PointY="15.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.OperationApp" Width="1.5" PointX="5.375" PointY="24.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.SystemParam" Width="1.5" PointX="15.375" PointY="25.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.v_OperationApp" Width="1.5" PointX="17.375" PointY="25.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.v_users" Width="1.5" PointX="11.375" PointY="26.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.v_Integration" Width="1.5" PointX="27.375" PointY="0.75" />
+        <EntityTypeShape EntityType="eSTS_StagModel.v_ReportQlik" Width="1.5" PointX="27.375" PointY="6.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

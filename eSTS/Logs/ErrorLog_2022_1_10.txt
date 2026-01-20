@@ -1,0 +1,165 @@
+Exception Message           : Must declare the scalar variable "@".
+Details                     : System.Data.SqlClient.SqlException (0x80131904): Must declare the scalar variable "@".
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at eSTS.DAL.DALSync.SyncShip() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\DAL\DALSync.cs:line 1296
+ClientConnectionId:078756a3-8a81-4473-ade3-25f1c93a47dc
+Error Number:137,State:2,Class:15
+Exception Source            : .Net SqlClient Data Provider
+Time of Occurence           : 10/1/2022 11:59:02 AM
+Page                        : DALSync
+Method                      : SyncShip
+-------------------------------------------------------------------------------
+Exception Message           : Invalid column name 'ShipID'.
+Details                     : System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'ShipID'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at eSTS.DAL.DALSync.SyncShip()
+ClientConnectionId:078756a3-8a81-4473-ade3-25f1c93a47dc
+Error Number:207,State:1,Class:16
+Exception Source            : .Net SqlClient Data Provider
+Time of Occurence           : 10/1/2022 12:02:00 PM
+Page                        : DALSync
+Method                      : SyncShip
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.License.ShipLicenseInfo.btnSaveAttachDoc_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\License\ShipLicenseInfo.aspx.cs:line 218
+Exception Source            : eSTS
+Time of Occurence           : 10/1/2022 12:48:44 PM
+Page                        : license_shiplicenseinfo_aspx
+Method                      : btnSaveAttachDoc_Click
+-------------------------------------------------------------------------------
+Exception Message           : Non-static field requires a target.
+Details                     : System.Reflection.TargetException: Non-static field requires a target.
+   at System.Reflection.RtFieldInfo.CheckConsistency(Object target)
+   at System.Reflection.RtFieldInfo.InternalGetValue(Object obj, StackCrawlMark& stackMark)
+   at System.Reflection.RtFieldInfo.GetValue(Object obj)
+   at System.Data.Objects.ELinq.QueryParameterExpression.TryGetFieldOrPropertyValue(MemberExpression me, Object instance, Object& memberValue)
+   at System.Data.Objects.ELinq.QueryParameterExpression.TryEvaluatePath(Expression expression, ConstantExpression& constantExpression)
+   at System.Data.Objects.ELinq.QueryParameterExpression.EvaluateParameter(Object[] arguments)
+   at System.Data.Objects.ELinq.ELinqQueryState.GetExecutionPlan(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   at System.Data.Objects.ELinq.ObjectQueryProvider.<>c__11`1.<GetElementFunction>b__11_1(IEnumerable`1 sequence)
+   at System.Data.Objects.ELinq.ObjectQueryProvider.ExecuteSingle[TResult](IEnumerable`1 query, Expression queryRoot)
+   at System.Data.Objects.ELinq.ObjectQueryProvider.System.Linq.IQueryProvider.Execute[S](Expression expression)
+   at System.Data.Entity.Internal.Linq.DbQueryProvider.Execute[TResult](Expression expression)
+   at System.Linq.Queryable.FirstOrDefault[TSource](IQueryable`1 source)
+   at eSTS.License.ShipLicenseInfo.btnSaveAttachDoc_Click(Object sender, EventArgs e)
+Exception Source            : mscorlib
+Time of Occurence           : 10/1/2022 12:50:22 PM
+Page                        : license_shiplicenseinfo_aspx
+Method                      : btnSaveAttachDoc_Click
+-------------------------------------------------------------------------------
+Exception Message           : Unrecognized Guid format.
+Details                     : System.FormatException: Unrecognized Guid format.
+   at System.Guid.TryParseGuid(String g, GuidStyles flags, GuidResult& result)
+   at System.Guid..ctor(String g)
+   at eSTS.License.STSOperatorLic.LoadForm() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\License\STSOperatorLic.aspx.cs:line 72
+Exception Source            : mscorlib
+Time of Occurence           : 10/1/2022 1:08:40 PM
+Page                        : license_stsoperatorlic_aspx
+Method                      : LoadForm
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.cbFSU_ValueChanged(Object sender, EventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 10/1/2022 1:11:15 PM
+Page                        : operation_opappa_aspx
+Method                      : cbFSU_ValueChanged
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'Ref No' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'Ref No' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Internal.GridTextBuilder.GetDisplayControlArgs(IWebGridDataColumn column, Int32 visibleIndex, IValueProvider provider, ASPxGridBase grid, Boolean highlightSearchText)
+   at DevExpress.Web.Internal.GridRenderHelper.CreateDataCellDisplayControl(IWebGridDataColumn column, Int32 visibleIndex, IValueProvider row)
+   at DevExpress.Web.Bootstrap.Internal.BootstrapGridViewRenderHelper.CreateDataCellDisplayControl(IWebGridDataColumn column, Int32 visibleIndex, IValueProvider row)
+   at DevExpress.Web.Internal.GridRenderHelper.AddDisplayControlToDataCell(Control cell, IWebGridDataColumn column, Int32 visibleIndex, IValueProvider row)
+   at DevExpress.Web.Bootstrap.Internal.BSGridViewTableDataCell.CreateControlHierarchy()
+   at DevExpress.Web.Internal.InternalTableCell.CreateChildControls()
+   at System.Web.UI.Control.EnsureChildControls()
+   at DevExpress.Web.Internal.InternalTableCell.DevExpress.Web.Internal.IWebControl.EnsureChildControls()
+   at DevExpress.Web.Internal.RenderUtils.EnsureChildControlsRecursive(Control control, Predicate`1 skipControlCondition)
+   at DevExpress.Web.Internal.RenderUtils.EnsureChildControlsRecursive(Control control, Predicate`1 skipControlCondition)
+   at DevExpress.Web.Internal.RenderUtils.EnsureChildControlsRecursive(Control control, Predicate`1 skipControlCondition)
+   at DevExpress.Web.Internal.RenderUtils.EnsureChildControlsRecursive(Control control, Predicate`1 skipControlCondition)
+   at DevExpress.Web.Internal.RenderUtils.EnsureChildControlsRecursive(Control control, Predicate`1 skipControlCondition)
+   at DevExpress.Web.Internal.RenderUtils.EnsureChildControlsRecursive(Control control, Boolean skipContentContainers)
+   at DevExpress.Web.ASPxWebControlBase.EnsureChildControlsRecursive(Control control, Boolean skipContentContainers)
+   at DevExpress.Web.ASPxWebControlBase.EnsureChildControlsRecursive(Control control)
+   at DevExpress.Web.ASPxWebControlBase.CreateChildControls()
+   at System.Web.UI.Control.EnsureChildControls()
+   at DevExpress.Web.ASPxWebControlBase.EnsureChildControls()
+   at DevExpress.Web.ASPxWebControlBase.DevExpress.Web.Internal.IWebControl.EnsureChildControls()
+   at DevExpress.Web.Internal.RenderUtils.EnsureChildControlsRecursive(Control control, Predicate`1 skipControlCondition)
+   at DevExpress.Web.Internal.RenderUtils.EnsureChildControlsRecursive(Control control, Predicate`1 skipControlCondition)
+   at DevExpress.Web.Internal.RenderUtils.EnsureChildControlsRecursive(Control control, Boolean skipContentContainers)
+   at DevExpress.Web.ASPxWebControlBase.EnsureChildControlsRecursive(Control control, Boolean skipContentContainers)
+   at DevExpress.Web.ASPxWebControlBase.EnsureChildControlsRecursive(Control control)
+   at DevExpress.Web.ASPxWebControlBase.CreateChildControls()
+   at DevExpress.Web.ASPxWebControl.CreateChildControls()
+   at System.Web.UI.Control.EnsureChildControls()
+   at DevExpress.Web.ASPxWebControlBase.EnsureChildControls()
+   at DevExpress.Web.ASPxDataWebControlBase.DataBindInternal()
+   at DevExpress.Web.ASPxWebControl.DataBind()
+   at eSTS.Operation.OpAppA.cbFSU_ValueChanged(Object sender, EventArgs e)
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 10/1/2022 1:13:36 PM
+Page                        : operation_opappa_aspx
+Method                      : cbFSU_ValueChanged
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.LoadForm()
+Exception Source            : eSTS
+Time of Occurence           : 10/1/2022 2:57:38 PM
+Page                        : operation_opappa_aspx
+Method                      : LoadForm
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e)
+Exception Source            : mscorlib
+Time of Occurence           : 10/1/2022 2:58:41 PM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e)
+Exception Source            : mscorlib
+Time of Occurence           : 10/1/2022 2:59:47 PM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------

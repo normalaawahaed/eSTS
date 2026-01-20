@@ -1,0 +1,16 @@
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTSeLPJInteg.Integration.execIntegration() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTSeLPJInteg\Integration.cs:line 97
+Exception Source            : eSTSeLPJInteg
+Time of Occurence           : 21/7/2022 12:20:36 PM
+Page                        : Integration
+Method                      : execIntegration
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTSeLPJInteg.Integration.execIntegration() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTSeLPJInteg\Integration.cs:line 100
+Exception Source            : eSTSeLPJInteg
+Time of Occurence           : 21/7/2022 12:53:19 PM
+Page                        : Integration
+Method                      : execIntegration
+-------------------------------------------------------------------------------

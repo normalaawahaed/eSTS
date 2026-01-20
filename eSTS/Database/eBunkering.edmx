@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="eBunkering_LiveModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="AccessGroup">
+          <Key>
+            <PropertyRef Name="AccessGroupID" />
+          </Key>
+          <Property Name="AccessGroupID" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="AccessGroupName" Type="nvarchar" MaxLength="50" />
+          <Property Name="AccessGroupDesc" Type="nvarchar" MaxLength="200" />
+          <Property Name="MainPageId" Type="uniqueidentifier" />
+          <Property Name="PortLoc" Type="int" />
+          <Property Name="PermitIssuerID" Type="uniqueidentifier" />
+          <Property Name="UserManual" Type="nvarchar(max)" />
+          <Property Name="Menu" Type="text" />
+          <Property Name="IsEmailGroup" Type="bit" />
+          <Property Name="EmailGroup" Type="nvarchar" MaxLength="50" />
+          <Property Name="IsActive" Type="bit" />
+          <Property Name="CreatedBy" Type="nvarchar" MaxLength="50" />
+          <Property Name="CreatedDate" Type="datetime" />
+          <Property Name="UpdatedBy" Type="nvarchar" MaxLength="50" />
+          <Property Name="UpdatedDate" Type="datetime" />
+        </EntityType>
+        <EntityContainer Name="eBunkering_LiveModelStoreContainer">
+          <EntitySet Name="AccessGroup" EntityType="Self.AccessGroup" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="eBunkering_LiveModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="eBunkering_LiveEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="AccessGroups" EntityType="eBunkering_LiveModel.AccessGroup" />
+        </EntityContainer>
+        <EntityType Name="AccessGroup">
+          <Key>
+            <PropertyRef Name="AccessGroupID" />
+          </Key>
+          <Property Name="AccessGroupID" Type="Guid" Nullable="false" />
+          <Property Name="AccessGroupName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="AccessGroupDesc" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+          <Property Name="MainPageId" Type="Guid" />
+          <Property Name="PortLoc" Type="Int32" />
+          <Property Name="PermitIssuerID" Type="Guid" />
+          <Property Name="UserManual" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Menu" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Name="IsEmailGroup" Type="Boolean" />
+          <Property Name="EmailGroup" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="IsActive" Type="Boolean" />
+          <Property Name="CreatedBy" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="CreatedDate" Type="DateTime" Precision="3" />
+          <Property Name="UpdatedBy" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="UpdatedDate" Type="DateTime" Precision="3" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="eBunkering_LiveModelStoreContainer" CdmEntityContainer="eBunkering_LiveEntities">
+          <EntitySetMapping Name="AccessGroups">
+            <EntityTypeMapping TypeName="eBunkering_LiveModel.AccessGroup">
+              <MappingFragment StoreEntitySet="AccessGroup">
+                <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+                <ScalarProperty Name="UpdatedBy" ColumnName="UpdatedBy" />
+                <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+                <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+                <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+                <ScalarProperty Name="EmailGroup" ColumnName="EmailGroup" />
+                <ScalarProperty Name="IsEmailGroup" ColumnName="IsEmailGroup" />
+                <ScalarProperty Name="Menu" ColumnName="Menu" />
+                <ScalarProperty Name="UserManual" ColumnName="UserManual" />
+                <ScalarProperty Name="PermitIssuerID" ColumnName="PermitIssuerID" />
+                <ScalarProperty Name="PortLoc" ColumnName="PortLoc" />
+                <ScalarProperty Name="MainPageId" ColumnName="MainPageId" />
+                <ScalarProperty Name="AccessGroupDesc" ColumnName="AccessGroupDesc" />
+                <ScalarProperty Name="AccessGroupName" ColumnName="AccessGroupName" />
+                <ScalarProperty Name="AccessGroupID" ColumnName="AccessGroupID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="true" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

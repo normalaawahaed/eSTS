@@ -1,0 +1,786 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="MMSSyncModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="CompanyProfile">
+          <Key>
+            <PropertyRef Name="Orgzid" />
+          </Key>
+          <Property Name="Orgzid" Type="nvarchar" MaxLength="20" Nullable="false" />
+          <Property Name="CompanyName" Type="nvarchar" MaxLength="100" />
+          <Property Name="Address1" Type="nvarchar" MaxLength="50" />
+          <Property Name="Address2" Type="nvarchar" MaxLength="50" />
+          <Property Name="Address3" Type="nvarchar" MaxLength="50" />
+          <Property Name="TelNo" Type="nvarchar" MaxLength="50" />
+          <Property Name="FaxNo" Type="nvarchar" MaxLength="15" />
+          <Property Name="ContactPerson" Type="nvarchar" MaxLength="100" />
+          <Property Name="EmailAddress" Type="nvarchar" MaxLength="200" />
+          <Property Name="OrgzType" Type="nvarchar" MaxLength="5" />
+          <Property Name="IsLock" Type="bit" />
+          <Property Name="IsBlacklist" Type="bit" />
+          <Property Name="SyncDate" Type="datetime" />
+          <Property Name="AgentCode" Type="nvarchar" MaxLength="10" />
+        </EntityType>
+        <EntityType Name="LicCompany">
+          <Key>
+            <PropertyRef Name="LicCompanyID" />
+          </Key>
+          <Property Name="LicCompanyID" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="CompID" Type="nvarchar" MaxLength="20" />
+          <Property Name="ServiceCode" Type="nvarchar" MaxLength="5" />
+          <Property Name="LicenseID" Type="uniqueidentifier" />
+          <Property Name="LicDateIssue" Type="nvarchar" MaxLength="14" />
+          <Property Name="LicDateExp" Type="nvarchar" MaxLength="14" />
+          <Property Name="DtLicIssue" Type="datetime" />
+          <Property Name="DtLicExp" Type="datetime" />
+          <Property Name="Location" Type="int" />
+          <Property Name="ServiceType" Type="nvarchar" MaxLength="5" />
+          <Property Name="CaseNUm" Type="nvarchar" MaxLength="20" />
+          <Property Name="PDAValidFrom" Type="datetime" />
+          <Property Name="PDAValidTo" Type="datetime" />
+          <Property Name="CreatedBy" Type="nvarchar" MaxLength="20" />
+          <Property Name="CreatedDate" Type="datetime" />
+          <Property Name="UpdatedBy" Type="nvarchar" MaxLength="20" />
+          <Property Name="UpdatedDate" Type="datetime" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'MMSSync.dbo.Port' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="Port">
+          <Key>
+            <PropertyRef Name="locode" />
+          </Key>
+          <Property Name="locode" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="country_code" Type="nvarchar" MaxLength="255" />
+          <Property Name="country_name" Type="nvarchar" MaxLength="50" />
+          <Property Name="port_code" Type="nvarchar" MaxLength="255" />
+          <Property Name="port_name" Type="nvarchar" MaxLength="255" />
+          <Property Name="create_user" Type="nvarchar" MaxLength="50" />
+          <Property Name="create_time" Type="datetime" />
+          <Property Name="update_user" Type="nvarchar" MaxLength="50" />
+          <Property Name="update_time" Type="datetime" />
+        </EntityType>
+        <EntityType Name="ShipFlag">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="ShipFlag" Type="varchar" MaxLength="100" />
+          <Property Name="FlagCode" Type="char" MaxLength="2" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'MMSSync.dbo.ShipMaster' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="ShipMaster">
+          <Key>
+            <PropertyRef Name="ShipID" />
+            <PropertyRef Name="ShipCategory" />
+            <PropertyRef Name="Status" />
+            <PropertyRef Name="VoyageType" />
+          </Key>
+          <Property Name="ShipID" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="ShipCategory" Type="varchar" MaxLength="1" Nullable="false" />
+          <Property Name="OffNo" Type="varchar" MaxLength="40" />
+          <Property Name="ShipName" Type="varchar" MaxLength="50" />
+          <Property Name="PortReg" Type="varchar" MaxLength="50" />
+          <Property Name="CallSign" Type="varchar" MaxLength="10" />
+          <Property Name="IMONo" Type="varchar" MaxLength="20" />
+          <Property Name="RegNo" Type="varchar" MaxLength="10" />
+          <Property Name="YearReg" Type="int" />
+          <Property Name="ShipType" Type="varchar" MaxLength="50" />
+          <Property Name="YearBuilt" Type="int" />
+          <Property Name="LOA" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="Breadth" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="Depth" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="GRT" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="NRT" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="DWT" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="IMOCode" Type="varchar" MaxLength="2" />
+          <Property Name="OwnerName" Type="varchar" MaxLength="50" />
+          <Property Name="ShipFlag" Type="varchar" MaxLength="100" />
+          <Property Name="BoatLicense" Type="varchar" MaxLength="1" />
+          <Property Name="Status" Type="char" MaxLength="1" Nullable="false" />
+          <Property Name="VoyageType" Type="varchar" MaxLength="1" Nullable="false" />
+          <Property Name="STDDraft" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="ShipCapacity" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="ShipBeam" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="DispmtWeight" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="ShipTypeID" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'MMSSync.dbo.ShipMaster3' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="ShipMaster3">
+          <Key>
+            <PropertyRef Name="ShipID" />
+            <PropertyRef Name="ShipCategory" />
+            <PropertyRef Name="Status" />
+            <PropertyRef Name="VoyageType" />
+          </Key>
+          <Property Name="ShipID" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="ShipCategory" Type="varchar" MaxLength="1" Nullable="false" />
+          <Property Name="OffNo" Type="varchar" MaxLength="40" />
+          <Property Name="ShipName" Type="varchar" MaxLength="50" />
+          <Property Name="PortReg" Type="varchar" MaxLength="50" />
+          <Property Name="CallSign" Type="varchar" MaxLength="10" />
+          <Property Name="IMONo" Type="varchar" MaxLength="20" />
+          <Property Name="RegNo" Type="varchar" MaxLength="10" />
+          <Property Name="YearReg" Type="int" />
+          <Property Name="ShipType" Type="varchar" MaxLength="50" />
+          <Property Name="YearBuilt" Type="int" />
+          <Property Name="LOA" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="Breadth" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="Depth" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="GRT" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="NRT" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="DWT" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="IMOCode" Type="varchar" MaxLength="2" />
+          <Property Name="OwnerName" Type="varchar" MaxLength="50" />
+          <Property Name="ShipFlag" Type="varchar" MaxLength="100" />
+          <Property Name="BoatLicense" Type="varchar" MaxLength="1" />
+          <Property Name="Status" Type="char" MaxLength="1" Nullable="false" />
+          <Property Name="VoyageType" Type="varchar" MaxLength="1" Nullable="false" />
+          <Property Name="STDDraft" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="ShipCapacity" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="ShipBeam" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="DispmtWeight" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="ShipTypeID" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'MMSSync.dbo.ShipType' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="ShipType">
+          <Key>
+            <PropertyRef Name="TypeOfVesselID" />
+          </Key>
+          <Property Name="TypeOfVesselID" Type="int" Nullable="false" />
+          <Property Name="TypeOfVessel" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Users">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="OrgzID" Type="nvarchar" MaxLength="20" />
+          <Property Name="UserID" Type="nvarchar" MaxLength="20" />
+          <Property Name="UserPass" Type="nvarchar" MaxLength="50" />
+          <Property Name="UserPass2" Type="nvarchar" MaxLength="50" />
+          <Property Name="FullName" Type="nvarchar" MaxLength="50" />
+          <Property Name="EmailAddress" Type="nvarchar" MaxLength="200" />
+          <Property Name="TelNo" Type="nvarchar" MaxLength="20" />
+          <Property Name="ICNo" Type="nvarchar" MaxLength="30" />
+          <Property Name="Designation" Type="nvarchar" MaxLength="100" />
+          <Property Name="AccessGroupID" Type="uniqueidentifier" />
+          <Property Name="STSAccessGroupID" Type="uniqueidentifier" />
+          <Property Name="UserType" Type="nvarchar" MaxLength="5" />
+          <Property Name="IsActive" Type="bit" />
+          <Property Name="CreatedBy" Type="nvarchar" MaxLength="50" />
+          <Property Name="CreatedDate" Type="datetime" />
+          <Property Name="UpdatedBy" Type="nvarchar" MaxLength="50" />
+          <Property Name="UpdatedDate" Type="datetime" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'MMSSync.dbo.v_ShipMaster' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="v_ShipMaster">
+          <Key>
+            <PropertyRef Name="ShipID" />
+            <PropertyRef Name="ShipCategory" />
+            <PropertyRef Name="Status" />
+            <PropertyRef Name="VoyageType" />
+          </Key>
+          <Property Name="ShipID" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="ShipCategory" Type="varchar" MaxLength="1" Nullable="false" />
+          <Property Name="OffNo" Type="varchar" MaxLength="40" />
+          <Property Name="ShipName" Type="varchar" MaxLength="50" />
+          <Property Name="PortReg" Type="varchar" MaxLength="50" />
+          <Property Name="CallSign" Type="varchar" MaxLength="10" />
+          <Property Name="IMONo" Type="varchar" MaxLength="20" />
+          <Property Name="RegNo" Type="varchar" MaxLength="10" />
+          <Property Name="YearReg" Type="int" />
+          <Property Name="ShipType" Type="varchar" MaxLength="50" />
+          <Property Name="YearBuilt" Type="int" />
+          <Property Name="LOA" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="Breadth" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="Depth" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="GRT" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="NRT" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="DWT" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="IMOCode" Type="varchar" MaxLength="2" />
+          <Property Name="OwnerName" Type="varchar" MaxLength="50" />
+          <Property Name="ShipFlag" Type="varchar" MaxLength="100" />
+          <Property Name="BoatLicense" Type="varchar" MaxLength="1" />
+          <Property Name="Status" Type="char" MaxLength="1" Nullable="false" />
+          <Property Name="VoyageType" Type="varchar" MaxLength="1" Nullable="false" />
+          <Property Name="STDDraft" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="ShipCapacity" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="ShipBeam" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="DispmtWeight" Type="numeric" Precision="9" Scale="2" />
+          <Property Name="ShipTypeID" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityContainer Name="MMSSyncModelStoreContainer">
+          <EntitySet Name="CompanyProfile" EntityType="Self.CompanyProfile" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="LicCompany" EntityType="Self.LicCompany" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ShipFlag" EntityType="Self.ShipFlag" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Port" EntityType="Self.Port" store:Type="Tables" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+[Port].[locode] AS [locode], 
+[Port].[country_code] AS [country_code], 
+[Port].[country_name] AS [country_name], 
+[Port].[port_code] AS [port_code], 
+[Port].[port_name] AS [port_name], 
+[Port].[create_user] AS [create_user], 
+[Port].[create_time] AS [create_time], 
+[Port].[update_user] AS [update_user], 
+[Port].[update_time] AS [update_time]
+FROM [dbo].[Port] AS [Port]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="ShipMaster" EntityType="Self.ShipMaster" store:Type="Tables" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+[ShipMaster].[ShipID] AS [ShipID], 
+[ShipMaster].[ShipCategory] AS [ShipCategory], 
+[ShipMaster].[OffNo] AS [OffNo], 
+[ShipMaster].[ShipName] AS [ShipName], 
+[ShipMaster].[PortReg] AS [PortReg], 
+[ShipMaster].[CallSign] AS [CallSign], 
+[ShipMaster].[IMONo] AS [IMONo], 
+[ShipMaster].[RegNo] AS [RegNo], 
+[ShipMaster].[YearReg] AS [YearReg], 
+[ShipMaster].[ShipType] AS [ShipType], 
+[ShipMaster].[YearBuilt] AS [YearBuilt], 
+[ShipMaster].[LOA] AS [LOA], 
+[ShipMaster].[Breadth] AS [Breadth], 
+[ShipMaster].[Depth] AS [Depth], 
+[ShipMaster].[GRT] AS [GRT], 
+[ShipMaster].[NRT] AS [NRT], 
+[ShipMaster].[DWT] AS [DWT], 
+[ShipMaster].[IMOCode] AS [IMOCode], 
+[ShipMaster].[OwnerName] AS [OwnerName], 
+[ShipMaster].[ShipFlag] AS [ShipFlag], 
+[ShipMaster].[BoatLicense] AS [BoatLicense], 
+[ShipMaster].[Status] AS [Status], 
+[ShipMaster].[VoyageType] AS [VoyageType], 
+[ShipMaster].[STDDraft] AS [STDDraft], 
+[ShipMaster].[ShipCapacity] AS [ShipCapacity], 
+[ShipMaster].[ShipBeam] AS [ShipBeam], 
+[ShipMaster].[DispmtWeight] AS [DispmtWeight], 
+[ShipMaster].[ShipTypeID] AS [ShipTypeID]
+FROM [dbo].[ShipMaster] AS [ShipMaster]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="ShipMaster3" EntityType="Self.ShipMaster3" store:Type="Tables" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+[ShipMaster3].[ShipID] AS [ShipID], 
+[ShipMaster3].[ShipCategory] AS [ShipCategory], 
+[ShipMaster3].[OffNo] AS [OffNo], 
+[ShipMaster3].[ShipName] AS [ShipName], 
+[ShipMaster3].[PortReg] AS [PortReg], 
+[ShipMaster3].[CallSign] AS [CallSign], 
+[ShipMaster3].[IMONo] AS [IMONo], 
+[ShipMaster3].[RegNo] AS [RegNo], 
+[ShipMaster3].[YearReg] AS [YearReg], 
+[ShipMaster3].[ShipType] AS [ShipType], 
+[ShipMaster3].[YearBuilt] AS [YearBuilt], 
+[ShipMaster3].[LOA] AS [LOA], 
+[ShipMaster3].[Breadth] AS [Breadth], 
+[ShipMaster3].[Depth] AS [Depth], 
+[ShipMaster3].[GRT] AS [GRT], 
+[ShipMaster3].[NRT] AS [NRT], 
+[ShipMaster3].[DWT] AS [DWT], 
+[ShipMaster3].[IMOCode] AS [IMOCode], 
+[ShipMaster3].[OwnerName] AS [OwnerName], 
+[ShipMaster3].[ShipFlag] AS [ShipFlag], 
+[ShipMaster3].[BoatLicense] AS [BoatLicense], 
+[ShipMaster3].[Status] AS [Status], 
+[ShipMaster3].[VoyageType] AS [VoyageType], 
+[ShipMaster3].[STDDraft] AS [STDDraft], 
+[ShipMaster3].[ShipCapacity] AS [ShipCapacity], 
+[ShipMaster3].[ShipBeam] AS [ShipBeam], 
+[ShipMaster3].[DispmtWeight] AS [DispmtWeight], 
+[ShipMaster3].[ShipTypeID] AS [ShipTypeID]
+FROM [dbo].[ShipMaster3] AS [ShipMaster3]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="ShipType" EntityType="Self.ShipType" store:Type="Tables" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+[ShipType].[TypeOfVesselID] AS [TypeOfVesselID], 
+[ShipType].[TypeOfVessel] AS [TypeOfVessel]
+FROM [dbo].[ShipType] AS [ShipType]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="v_ShipMaster" EntityType="Self.v_ShipMaster" store:Type="Views" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+[v_ShipMaster].[ShipID] AS [ShipID], 
+[v_ShipMaster].[ShipCategory] AS [ShipCategory], 
+[v_ShipMaster].[OffNo] AS [OffNo], 
+[v_ShipMaster].[ShipName] AS [ShipName], 
+[v_ShipMaster].[PortReg] AS [PortReg], 
+[v_ShipMaster].[CallSign] AS [CallSign], 
+[v_ShipMaster].[IMONo] AS [IMONo], 
+[v_ShipMaster].[RegNo] AS [RegNo], 
+[v_ShipMaster].[YearReg] AS [YearReg], 
+[v_ShipMaster].[ShipType] AS [ShipType], 
+[v_ShipMaster].[YearBuilt] AS [YearBuilt], 
+[v_ShipMaster].[LOA] AS [LOA], 
+[v_ShipMaster].[Breadth] AS [Breadth], 
+[v_ShipMaster].[Depth] AS [Depth], 
+[v_ShipMaster].[GRT] AS [GRT], 
+[v_ShipMaster].[NRT] AS [NRT], 
+[v_ShipMaster].[DWT] AS [DWT], 
+[v_ShipMaster].[IMOCode] AS [IMOCode], 
+[v_ShipMaster].[OwnerName] AS [OwnerName], 
+[v_ShipMaster].[ShipFlag] AS [ShipFlag], 
+[v_ShipMaster].[BoatLicense] AS [BoatLicense], 
+[v_ShipMaster].[Status] AS [Status], 
+[v_ShipMaster].[VoyageType] AS [VoyageType], 
+[v_ShipMaster].[STDDraft] AS [STDDraft], 
+[v_ShipMaster].[ShipCapacity] AS [ShipCapacity], 
+[v_ShipMaster].[ShipBeam] AS [ShipBeam], 
+[v_ShipMaster].[DispmtWeight] AS [DispmtWeight], 
+[v_ShipMaster].[ShipTypeID] AS [ShipTypeID]
+FROM [dbo].[v_ShipMaster] AS [v_ShipMaster]</DefiningQuery>
+          </EntitySet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="MMSSyncModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="MMSSyncEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="LicCompanies" EntityType="MMSSyncModel.LicCompany" />
+          <EntitySet Name="ShipFlags" EntityType="MMSSyncModel.ShipFlag" />
+          <EntitySet Name="Users" EntityType="MMSSyncModel.User" />
+          <EntitySet Name="Ports" EntityType="MMSSyncModel.Port" />
+          <EntitySet Name="ShipMasters" EntityType="MMSSyncModel.ShipMaster" />
+          <EntitySet Name="ShipTypes" EntityType="MMSSyncModel.ShipType" />
+          <EntitySet Name="v_ShipMaster" EntityType="MMSSyncModel.v_ShipMaster" />
+          <EntitySet Name="CompanyProfiles" EntityType="MMSSyncModel.CompanyProfile" />
+          <EntitySet Name="ShipMaster3" EntityType="MMSSyncModel.ShipMaster3" />
+        </EntityContainer>
+        <EntityType Name="LicCompany">
+          <Key>
+            <PropertyRef Name="LicCompanyID" />
+          </Key>
+          <Property Name="LicCompanyID" Type="Guid" Nullable="false" />
+          <Property Name="CompID" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+          <Property Name="ServiceCode" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+          <Property Name="LicenseID" Type="Guid" />
+          <Property Name="LicDateIssue" Type="String" MaxLength="14" FixedLength="false" Unicode="true" />
+          <Property Name="LicDateExp" Type="String" MaxLength="14" FixedLength="false" Unicode="true" />
+          <Property Name="DtLicIssue" Type="DateTime" Precision="3" />
+          <Property Name="DtLicExp" Type="DateTime" Precision="3" />
+          <Property Name="Location" Type="Int32" />
+          <Property Name="ServiceType" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+          <Property Name="CaseNUm" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+          <Property Name="PDAValidFrom" Type="DateTime" Precision="3" />
+          <Property Name="PDAValidTo" Type="DateTime" Precision="3" />
+          <Property Name="CreatedBy" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+          <Property Name="CreatedDate" Type="DateTime" Precision="3" />
+          <Property Name="UpdatedBy" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+          <Property Name="UpdatedDate" Type="DateTime" Precision="3" />
+        </EntityType>
+        <EntityType Name="ShipFlag">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Guid" Nullable="false" />
+          <Property Name="ShipFlag1" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="FlagCode" Type="String" MaxLength="2" FixedLength="true" Unicode="false" />
+        </EntityType>
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Guid" Nullable="false" />
+          <Property Name="OrgzID" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+          <Property Name="UserID" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+          <Property Name="UserPass" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="UserPass2" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="FullName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="EmailAddress" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+          <Property Name="TelNo" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+          <Property Name="ICNo" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+          <Property Name="Designation" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="AccessGroupID" Type="Guid" />
+          <Property Name="STSAccessGroupID" Type="Guid" />
+          <Property Name="UserType" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+          <Property Name="IsActive" Type="Boolean" />
+          <Property Name="CreatedBy" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="CreatedDate" Type="DateTime" Precision="3" />
+          <Property Name="UpdatedBy" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="UpdatedDate" Type="DateTime" Precision="3" />
+        </EntityType>
+        <EntityType Name="Port">
+          <Key>
+            <PropertyRef Name="locode" />
+          </Key>
+          <Property Name="locode" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="country_code" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="country_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="port_code" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="port_name" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="create_user" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="create_time" Type="DateTime" Precision="3" />
+          <Property Name="update_user" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="update_time" Type="DateTime" Precision="3" />
+        </EntityType>
+        <EntityType Name="ShipMaster">
+          <Key>
+            <PropertyRef Name="ShipID" />
+            <PropertyRef Name="ShipCategory" />
+            <PropertyRef Name="Status" />
+            <PropertyRef Name="VoyageType" />
+          </Key>
+          <Property Name="ShipID" Type="Guid" Nullable="false" />
+          <Property Name="ShipCategory" Type="String" Nullable="false" MaxLength="1" FixedLength="false" Unicode="false" />
+          <Property Name="OffNo" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+          <Property Name="ShipName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="PortReg" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="CallSign" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="IMONo" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="RegNo" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="YearReg" Type="Int32" />
+          <Property Name="ShipType" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="YearBuilt" Type="Int32" />
+          <Property Name="LOA" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="Breadth" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="Depth" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="GRT" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="NRT" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="DWT" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="IMOCode" Type="String" MaxLength="2" FixedLength="false" Unicode="false" />
+          <Property Name="OwnerName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="ShipFlag" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="BoatLicense" Type="String" MaxLength="1" FixedLength="false" Unicode="false" />
+          <Property Name="Status" Type="String" Nullable="false" MaxLength="1" FixedLength="true" Unicode="false" />
+          <Property Name="VoyageType" Type="String" Nullable="false" MaxLength="1" FixedLength="false" Unicode="false" />
+          <Property Name="STDDraft" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="ShipCapacity" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="ShipBeam" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="DispmtWeight" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="ShipTypeID" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="ShipType">
+          <Key>
+            <PropertyRef Name="TypeOfVesselID" />
+          </Key>
+          <Property Name="TypeOfVesselID" Type="Int32" Nullable="false" />
+          <Property Name="TypeOfVessel" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="v_ShipMaster">
+          <Key>
+            <PropertyRef Name="ShipID" />
+            <PropertyRef Name="ShipCategory" />
+            <PropertyRef Name="Status" />
+            <PropertyRef Name="VoyageType" />
+          </Key>
+          <Property Name="ShipID" Type="Guid" Nullable="false" />
+          <Property Name="ShipCategory" Type="String" Nullable="false" MaxLength="1" FixedLength="false" Unicode="false" />
+          <Property Name="OffNo" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+          <Property Name="ShipName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="PortReg" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="CallSign" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="IMONo" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="RegNo" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="YearReg" Type="Int32" />
+          <Property Name="ShipType" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="YearBuilt" Type="Int32" />
+          <Property Name="LOA" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="Breadth" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="Depth" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="GRT" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="NRT" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="DWT" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="IMOCode" Type="String" MaxLength="2" FixedLength="false" Unicode="false" />
+          <Property Name="OwnerName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="ShipFlag" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="BoatLicense" Type="String" MaxLength="1" FixedLength="false" Unicode="false" />
+          <Property Name="Status" Type="String" Nullable="false" MaxLength="1" FixedLength="true" Unicode="false" />
+          <Property Name="VoyageType" Type="String" Nullable="false" MaxLength="1" FixedLength="false" Unicode="false" />
+          <Property Name="STDDraft" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="ShipCapacity" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="ShipBeam" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="DispmtWeight" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="ShipTypeID" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="CompanyProfile">
+          <Key>
+            <PropertyRef Name="Orgzid" />
+          </Key>
+          <Property Name="Orgzid" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+          <Property Name="CompanyName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="Address1" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Address2" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Address3" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="TelNo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="FaxNo" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+          <Property Name="ContactPerson" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="EmailAddress" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+          <Property Name="OrgzType" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+          <Property Name="IsLock" Type="Boolean" />
+          <Property Name="IsBlacklist" Type="Boolean" />
+          <Property Name="SyncDate" Type="DateTime" Precision="3" />
+          <Property Name="AgentCode" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="ShipMaster3">
+          <Key>
+            <PropertyRef Name="ShipID" />
+            <PropertyRef Name="ShipCategory" />
+            <PropertyRef Name="Status" />
+            <PropertyRef Name="VoyageType" />
+          </Key>
+          <Property Name="ShipID" Type="Guid" Nullable="false" />
+          <Property Name="ShipCategory" Type="String" Nullable="false" MaxLength="1" FixedLength="false" Unicode="false" />
+          <Property Name="OffNo" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+          <Property Name="ShipName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="PortReg" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="CallSign" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="IMONo" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="RegNo" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="YearReg" Type="Int32" />
+          <Property Name="ShipType" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="YearBuilt" Type="Int32" />
+          <Property Name="LOA" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="Breadth" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="Depth" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="GRT" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="NRT" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="DWT" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="IMOCode" Type="String" MaxLength="2" FixedLength="false" Unicode="false" />
+          <Property Name="OwnerName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="ShipFlag" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="BoatLicense" Type="String" MaxLength="1" FixedLength="false" Unicode="false" />
+          <Property Name="Status" Type="String" Nullable="false" MaxLength="1" FixedLength="true" Unicode="false" />
+          <Property Name="VoyageType" Type="String" Nullable="false" MaxLength="1" FixedLength="false" Unicode="false" />
+          <Property Name="STDDraft" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="ShipCapacity" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="ShipBeam" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="DispmtWeight" Type="Decimal" Precision="9" Scale="2" />
+          <Property Name="ShipTypeID" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="MMSSyncModelStoreContainer" CdmEntityContainer="MMSSyncEntities">
+          <EntitySetMapping Name="LicCompanies">
+            <EntityTypeMapping TypeName="MMSSyncModel.LicCompany">
+              <MappingFragment StoreEntitySet="LicCompany">
+                <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+                <ScalarProperty Name="UpdatedBy" ColumnName="UpdatedBy" />
+                <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+                <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+                <ScalarProperty Name="PDAValidTo" ColumnName="PDAValidTo" />
+                <ScalarProperty Name="PDAValidFrom" ColumnName="PDAValidFrom" />
+                <ScalarProperty Name="CaseNUm" ColumnName="CaseNUm" />
+                <ScalarProperty Name="ServiceType" ColumnName="ServiceType" />
+                <ScalarProperty Name="Location" ColumnName="Location" />
+                <ScalarProperty Name="DtLicExp" ColumnName="DtLicExp" />
+                <ScalarProperty Name="DtLicIssue" ColumnName="DtLicIssue" />
+                <ScalarProperty Name="LicDateExp" ColumnName="LicDateExp" />
+                <ScalarProperty Name="LicDateIssue" ColumnName="LicDateIssue" />
+                <ScalarProperty Name="LicenseID" ColumnName="LicenseID" />
+                <ScalarProperty Name="ServiceCode" ColumnName="ServiceCode" />
+                <ScalarProperty Name="CompID" ColumnName="CompID" />
+                <ScalarProperty Name="LicCompanyID" ColumnName="LicCompanyID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ShipFlags">
+            <EntityTypeMapping TypeName="MMSSyncModel.ShipFlag">
+              <MappingFragment StoreEntitySet="ShipFlag">
+                <ScalarProperty Name="FlagCode" ColumnName="FlagCode" />
+                <ScalarProperty Name="ShipFlag1" ColumnName="ShipFlag" />
+                <ScalarProperty Name="id" ColumnName="id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Users">
+            <EntityTypeMapping TypeName="MMSSyncModel.User">
+              <MappingFragment StoreEntitySet="Users">
+                <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
+                <ScalarProperty Name="UpdatedBy" ColumnName="UpdatedBy" />
+                <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+                <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+                <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+                <ScalarProperty Name="UserType" ColumnName="UserType" />
+                <ScalarProperty Name="STSAccessGroupID" ColumnName="STSAccessGroupID" />
+                <ScalarProperty Name="AccessGroupID" ColumnName="AccessGroupID" />
+                <ScalarProperty Name="Designation" ColumnName="Designation" />
+                <ScalarProperty Name="ICNo" ColumnName="ICNo" />
+                <ScalarProperty Name="TelNo" ColumnName="TelNo" />
+                <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+                <ScalarProperty Name="FullName" ColumnName="FullName" />
+                <ScalarProperty Name="UserPass2" ColumnName="UserPass2" />
+                <ScalarProperty Name="UserPass" ColumnName="UserPass" />
+                <ScalarProperty Name="UserID" ColumnName="UserID" />
+                <ScalarProperty Name="OrgzID" ColumnName="OrgzID" />
+                <ScalarProperty Name="id" ColumnName="id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Ports">
+            <EntityTypeMapping TypeName="MMSSyncModel.Port">
+              <MappingFragment StoreEntitySet="Port">
+                <ScalarProperty Name="update_time" ColumnName="update_time" />
+                <ScalarProperty Name="update_user" ColumnName="update_user" />
+                <ScalarProperty Name="create_time" ColumnName="create_time" />
+                <ScalarProperty Name="create_user" ColumnName="create_user" />
+                <ScalarProperty Name="port_name" ColumnName="port_name" />
+                <ScalarProperty Name="port_code" ColumnName="port_code" />
+                <ScalarProperty Name="country_name" ColumnName="country_name" />
+                <ScalarProperty Name="country_code" ColumnName="country_code" />
+                <ScalarProperty Name="locode" ColumnName="locode" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ShipMasters">
+            <EntityTypeMapping TypeName="MMSSyncModel.ShipMaster">
+              <MappingFragment StoreEntitySet="ShipMaster">
+                <ScalarProperty Name="ShipTypeID" ColumnName="ShipTypeID" />
+                <ScalarProperty Name="DispmtWeight" ColumnName="DispmtWeight" />
+                <ScalarProperty Name="ShipBeam" ColumnName="ShipBeam" />
+                <ScalarProperty Name="ShipCapacity" ColumnName="ShipCapacity" />
+                <ScalarProperty Name="STDDraft" ColumnName="STDDraft" />
+                <ScalarProperty Name="VoyageType" ColumnName="VoyageType" />
+                <ScalarProperty Name="Status" ColumnName="Status" />
+                <ScalarProperty Name="BoatLicense" ColumnName="BoatLicense" />
+                <ScalarProperty Name="ShipFlag" ColumnName="ShipFlag" />
+                <ScalarProperty Name="OwnerName" ColumnName="OwnerName" />
+                <ScalarProperty Name="IMOCode" ColumnName="IMOCode" />
+                <ScalarProperty Name="DWT" ColumnName="DWT" />
+                <ScalarProperty Name="NRT" ColumnName="NRT" />
+                <ScalarProperty Name="GRT" ColumnName="GRT" />
+                <ScalarProperty Name="Depth" ColumnName="Depth" />
+                <ScalarProperty Name="Breadth" ColumnName="Breadth" />
+                <ScalarProperty Name="LOA" ColumnName="LOA" />
+                <ScalarProperty Name="YearBuilt" ColumnName="YearBuilt" />
+                <ScalarProperty Name="ShipType" ColumnName="ShipType" />
+                <ScalarProperty Name="YearReg" ColumnName="YearReg" />
+                <ScalarProperty Name="RegNo" ColumnName="RegNo" />
+                <ScalarProperty Name="IMONo" ColumnName="IMONo" />
+                <ScalarProperty Name="CallSign" ColumnName="CallSign" />
+                <ScalarProperty Name="PortReg" ColumnName="PortReg" />
+                <ScalarProperty Name="ShipName" ColumnName="ShipName" />
+                <ScalarProperty Name="OffNo" ColumnName="OffNo" />
+                <ScalarProperty Name="ShipCategory" ColumnName="ShipCategory" />
+                <ScalarProperty Name="ShipID" ColumnName="ShipID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ShipTypes">
+            <EntityTypeMapping TypeName="MMSSyncModel.ShipType">
+              <MappingFragment StoreEntitySet="ShipType">
+                <ScalarProperty Name="TypeOfVessel" ColumnName="TypeOfVessel" />
+                <ScalarProperty Name="TypeOfVesselID" ColumnName="TypeOfVesselID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="v_ShipMaster">
+            <EntityTypeMapping TypeName="MMSSyncModel.v_ShipMaster">
+              <MappingFragment StoreEntitySet="v_ShipMaster">
+                <ScalarProperty Name="ShipTypeID" ColumnName="ShipTypeID" />
+                <ScalarProperty Name="DispmtWeight" ColumnName="DispmtWeight" />
+                <ScalarProperty Name="ShipBeam" ColumnName="ShipBeam" />
+                <ScalarProperty Name="ShipCapacity" ColumnName="ShipCapacity" />
+                <ScalarProperty Name="STDDraft" ColumnName="STDDraft" />
+                <ScalarProperty Name="VoyageType" ColumnName="VoyageType" />
+                <ScalarProperty Name="Status" ColumnName="Status" />
+                <ScalarProperty Name="BoatLicense" ColumnName="BoatLicense" />
+                <ScalarProperty Name="ShipFlag" ColumnName="ShipFlag" />
+                <ScalarProperty Name="OwnerName" ColumnName="OwnerName" />
+                <ScalarProperty Name="IMOCode" ColumnName="IMOCode" />
+                <ScalarProperty Name="DWT" ColumnName="DWT" />
+                <ScalarProperty Name="NRT" ColumnName="NRT" />
+                <ScalarProperty Name="GRT" ColumnName="GRT" />
+                <ScalarProperty Name="Depth" ColumnName="Depth" />
+                <ScalarProperty Name="Breadth" ColumnName="Breadth" />
+                <ScalarProperty Name="LOA" ColumnName="LOA" />
+                <ScalarProperty Name="YearBuilt" ColumnName="YearBuilt" />
+                <ScalarProperty Name="ShipType" ColumnName="ShipType" />
+                <ScalarProperty Name="YearReg" ColumnName="YearReg" />
+                <ScalarProperty Name="RegNo" ColumnName="RegNo" />
+                <ScalarProperty Name="IMONo" ColumnName="IMONo" />
+                <ScalarProperty Name="CallSign" ColumnName="CallSign" />
+                <ScalarProperty Name="PortReg" ColumnName="PortReg" />
+                <ScalarProperty Name="ShipName" ColumnName="ShipName" />
+                <ScalarProperty Name="OffNo" ColumnName="OffNo" />
+                <ScalarProperty Name="ShipCategory" ColumnName="ShipCategory" />
+                <ScalarProperty Name="ShipID" ColumnName="ShipID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="CompanyProfiles">
+            <EntityTypeMapping TypeName="MMSSyncModel.CompanyProfile">
+              <MappingFragment StoreEntitySet="CompanyProfile">
+                <ScalarProperty Name="AgentCode" ColumnName="AgentCode" />
+                <ScalarProperty Name="SyncDate" ColumnName="SyncDate" />
+                <ScalarProperty Name="IsBlacklist" ColumnName="IsBlacklist" />
+                <ScalarProperty Name="IsLock" ColumnName="IsLock" />
+                <ScalarProperty Name="OrgzType" ColumnName="OrgzType" />
+                <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+                <ScalarProperty Name="ContactPerson" ColumnName="ContactPerson" />
+                <ScalarProperty Name="FaxNo" ColumnName="FaxNo" />
+                <ScalarProperty Name="TelNo" ColumnName="TelNo" />
+                <ScalarProperty Name="Address3" ColumnName="Address3" />
+                <ScalarProperty Name="Address2" ColumnName="Address2" />
+                <ScalarProperty Name="Address1" ColumnName="Address1" />
+                <ScalarProperty Name="CompanyName" ColumnName="CompanyName" />
+                <ScalarProperty Name="Orgzid" ColumnName="Orgzid" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ShipMaster3">
+            <EntityTypeMapping TypeName="MMSSyncModel.ShipMaster3">
+              <MappingFragment StoreEntitySet="ShipMaster3">
+                <ScalarProperty Name="ShipTypeID" ColumnName="ShipTypeID" />
+                <ScalarProperty Name="DispmtWeight" ColumnName="DispmtWeight" />
+                <ScalarProperty Name="ShipBeam" ColumnName="ShipBeam" />
+                <ScalarProperty Name="ShipCapacity" ColumnName="ShipCapacity" />
+                <ScalarProperty Name="STDDraft" ColumnName="STDDraft" />
+                <ScalarProperty Name="VoyageType" ColumnName="VoyageType" />
+                <ScalarProperty Name="Status" ColumnName="Status" />
+                <ScalarProperty Name="BoatLicense" ColumnName="BoatLicense" />
+                <ScalarProperty Name="ShipFlag" ColumnName="ShipFlag" />
+                <ScalarProperty Name="OwnerName" ColumnName="OwnerName" />
+                <ScalarProperty Name="IMOCode" ColumnName="IMOCode" />
+                <ScalarProperty Name="DWT" ColumnName="DWT" />
+                <ScalarProperty Name="NRT" ColumnName="NRT" />
+                <ScalarProperty Name="GRT" ColumnName="GRT" />
+                <ScalarProperty Name="Depth" ColumnName="Depth" />
+                <ScalarProperty Name="Breadth" ColumnName="Breadth" />
+                <ScalarProperty Name="LOA" ColumnName="LOA" />
+                <ScalarProperty Name="YearBuilt" ColumnName="YearBuilt" />
+                <ScalarProperty Name="ShipType" ColumnName="ShipType" />
+                <ScalarProperty Name="YearReg" ColumnName="YearReg" />
+                <ScalarProperty Name="RegNo" ColumnName="RegNo" />
+                <ScalarProperty Name="IMONo" ColumnName="IMONo" />
+                <ScalarProperty Name="CallSign" ColumnName="CallSign" />
+                <ScalarProperty Name="PortReg" ColumnName="PortReg" />
+                <ScalarProperty Name="ShipName" ColumnName="ShipName" />
+                <ScalarProperty Name="OffNo" ColumnName="OffNo" />
+                <ScalarProperty Name="ShipCategory" ColumnName="ShipCategory" />
+                <ScalarProperty Name="ShipID" ColumnName="ShipID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="true" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

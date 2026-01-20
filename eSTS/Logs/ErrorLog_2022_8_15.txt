@@ -1,0 +1,38 @@
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 302
+Exception Source            : mscorlib
+Time of Occurence           : 15/8/2022 2:59:42 PM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.SignIn.loadAccess(DataSet ds) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SignIn.aspx.cs:line 204
+Exception Source            : eSTS
+Time of Occurence           : 15/8/2022 3:05:36 PM
+Page                        : SignIn
+Method                      : loadAccess
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.SignIn.loadAccess(DataSet ds) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SignIn.aspx.cs:line 223
+Exception Source            : eSTS
+Time of Occurence           : 15/8/2022 4:09:42 PM
+Page                        : signin
+Method                      : loadAccess
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.SignIn.loadAccess(DataSet ds) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SignIn.aspx.cs:line 223
+Exception Source            : eSTS
+Time of Occurence           : 15/8/2022 4:10:44 PM
+Page                        : signin
+Method                      : loadAccess
+-------------------------------------------------------------------------------

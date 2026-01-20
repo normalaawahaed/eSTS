@@ -1,0 +1,309 @@
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 283
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:11:21 PM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at eSTS.Operation.OperationList.Page_Load(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationList.aspx.cs:line 28
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:12:14 PM
+Page                        : operation_operationlist_aspx
+Method                      : Page_Load
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:18:09 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:18:36 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:22:54 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:23:04 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:23:20 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 283
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:23:27 PM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 283
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:24:36 PM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:25:02 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:28:11 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:28:52 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:28:57 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:29:01 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:29:08 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:29:09 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:29:10 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:29:10 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:29:12 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:29:48 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:29:50 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:29:53 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:29:53 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:29:54 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:29:55 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:29:56 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------
+Exception Message           : Input string was not in a correct format.
+Details                     : System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at eSTS.SystemSetup.AccessGroupModule.gridGroupModule_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\AccessGroupModule.aspx.cs:line 174
+Exception Source            : mscorlib
+Time of Occurence           : 27/12/2021 3:29:56 PM
+Page                        : systemsetup_accessgroupmodule_aspx
+Method                      : gridGroupModule_CustomCallback
+-------------------------------------------------------------------------------

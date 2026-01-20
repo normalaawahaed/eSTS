@@ -1,0 +1,8 @@
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.SiteInspinia.SetPageTitle() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 89
+Exception Source            : eSTS
+Time of Occurence           : 27/5/2025 5:15:03 PM
+Page                        : siteinspinia_master
+Method                      : SetPageTitle
+-------------------------------------------------------------------------------

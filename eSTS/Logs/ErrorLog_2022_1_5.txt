@@ -1,0 +1,45 @@
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.MasterSetup.MSDoc.grid_RowUpdating(Object sender, ASPxDataUpdatingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\MasterSetup\MSDoc.aspx.cs:line 62
+Exception Source            : eSTS
+Time of Occurence           : 5/1/2022 10:56:13 AM
+Page                        : mastersetup_msdoc_aspx
+Method                      : grid_RowUpdating
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.MasterSetup.MSDoc.grid_RowUpdating(Object sender, ASPxDataUpdatingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\MasterSetup\MSDoc.aspx.cs:line 67
+Exception Source            : eSTS
+Time of Occurence           : 5/1/2022 11:49:14 AM
+Page                        : mastersetup_msdoc_aspx
+Method                      : grid_RowUpdating
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.MasterSetup.MSDoc.grid_RowUpdating(Object sender, ASPxDataUpdatingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\MasterSetup\MSDoc.aspx.cs:line 67
+Exception Source            : eSTS
+Time of Occurence           : 5/1/2022 11:50:26 AM
+Page                        : mastersetup_msdoc_aspx
+Method                      : grid_RowUpdating
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.MasterSetup.MSDoc.grid_RowUpdating(Object sender, ASPxDataUpdatingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\MasterSetup\MSDoc.aspx.cs:line 67
+Exception Source            : eSTS
+Time of Occurence           : 5/1/2022 11:52:33 AM
+Page                        : mastersetup_msdoc_aspx
+Method                      : grid_RowUpdating
+-------------------------------------------------------------------------------
+Exception Message           : The 'MSDocType' property does not exist or is not mapped for the type 'MSDocType'.
+Details                     : System.ArgumentException: The 'MSDocType' property does not exist or is not mapped for the type 'MSDocType'.
+   at System.Data.Entity.Internal.InternalPropertyValues.GetItem(String propertyName)
+   at System.Data.Entity.Infrastructure.DbPropertyValues.get_Item(String propertyName)
+   at System.Data.Entity.Infrastructure.DbPropertyValues.GetValue[TValue](String propertyName)
+   at eSTS.Database.eSTS_StagEntities.GetAuditRecordsForChange(DbEntityEntry dbEntry, String userId, String keyName, Guid transID) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Database\STSDB.Context.cs:line 71
+   at eSTS.Database.eSTS_StagEntities.SaveChanges(String userId, String keyName, Guid transID) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Database\STSDB.Context.cs:line 36
+   at eSTS.MasterSetup.MSDoc.grid_RowInserting(Object sender, ASPxDataInsertingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\MasterSetup\MSDoc.aspx.cs:line 40
+Exception Source            : EntityFramework
+Time of Occurence           : 5/1/2022 11:52:49 AM
+Page                        : mastersetup_msdoc_aspx
+Method                      : grid_RowInserting
+-------------------------------------------------------------------------------

@@ -1,0 +1,11 @@
+Exception Message           : Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx).
+Details                     : System.FormatException: Guid should contain 32 digits with 4 dashes (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx).
+   at System.Guid.TryParseGuidWithDashes(String guidString, GuidResult& result)
+   at System.Guid.TryParseGuid(String g, GuidStyles flags, GuidResult& result)
+   at System.Guid..ctor(String g)
+   at eBunkering.MasterSetup.AccessGroup.grid_RowInserting(Object sender, ASPxDataInsertingEventArgs e) in D:\Workspace\Project\eBunkering\Source Code\eBunkering_bk\MasterSetup\AccessGroup.aspx.cs:line 36
+Exception Source            : mscorlib
+Time of Occurence           : 5/5/2020 9:30:11 AM
+Page                        : mastersetup_accessgroup_aspx
+Method                      : grid_RowInserting
+-------------------------------------------------------------------------------

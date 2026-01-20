@@ -1,0 +1,83 @@
+Exception Message           : Unrecognized Guid format.
+Details                     : System.FormatException: Unrecognized Guid format.
+   at System.Guid.TryParseGuid(String g, GuidStyles flags, GuidResult& result)
+   at System.Guid..ctor(String g)
+   at eSTS.Operation.OpAppA.ControlForm() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 158
+   at eSTS.Operation.OpAppA.Page_Load(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 70
+Exception Source            : mscorlib
+Time of Occurence           : 15/9/2021 10:15:14 AM
+Page                        : operation_opappa_aspx
+Method                      : Page_Load
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 592
+Exception Source            : eSTS
+Time of Occurence           : 15/9/2021 10:15:14 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 592
+Exception Source            : eSTS
+Time of Occurence           : 15/9/2021 10:15:26 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 592
+Exception Source            : eSTS
+Time of Occurence           : 15/9/2021 10:15:29 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 592
+Exception Source            : eSTS
+Time of Occurence           : 15/9/2021 10:18:32 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 592
+Exception Source            : eSTS
+Time of Occurence           : 15/9/2021 10:18:59 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 15/9/2021 10:22:52 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 15/9/2021 10:22:53 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 15/9/2021 10:22:55 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 15/9/2021 10:23:01 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------

@@ -1,0 +1,145 @@
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.SiteInspinia.SetPageTitle() in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 76
+Exception Source            : eSTS
+Time of Occurence           : 28/12/2021 10:15:02 AM
+Page                        : siteinspinia_master
+Method                      : SetPageTitle
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 28/12/2021 11:18:13 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 28/12/2021 11:18:28 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 28/12/2021 11:19:34 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 657
+Exception Source            : eSTS
+Time of Occurence           : 28/12/2021 11:20:36 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : The specified expression must be of Boolean type. Near member access expression, line 8, column 30.
+Details                     : System.Data.EntitySqlException: The specified expression must be of Boolean type. Near member access expression, line 8, column 30.
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertLogicalArgs(BuiltInExpr astBuiltInExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.<>c.<CreateBuiltInExprConverter>b__97_7(BuiltInExpr bltInExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertBuiltIn(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.Convert(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertValueExpressionAllowUntypedNulls(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertValueExpression(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ProcessWhereHavingClausePredicate(DbExpressionBinding source, Node predicate, ErrorContext errCtx, String bindingNameTemplate, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertQueryExpr(Node expr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.Convert(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertValueExpressionAllowUntypedNulls(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertParenExpr(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.Convert(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertValueExpressionAllowUntypedNulls(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertValueExpression(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ProcessAliasedFromClauseItem(AliasedExpr aliasedExpr, SemanticResolver sr, List`1& scopeEntries)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ProcessFromClauseItem(FromClauseItem fromClauseItem, SemanticResolver sr, List`1& scopeEntries)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ProcessFromClause(FromClause fromClause, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertQueryExpr(Node expr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.Convert(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertValueExpressionAllowUntypedNulls(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertQueryStatementToDbExpression(Statement astStatement, SemanticResolver sr, List`1& functionDefs)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.AnalyzeQueryCommand(Node astExpr)
+   at System.Data.Common.EntitySql.CqlQuery.<>c.<AnalyzeQueryExpressionSemantics>b__5_0(SemanticAnalyzer analyzer, Node astExpr)
+   at System.Data.Common.EntitySql.CqlQuery.AnalyzeSemanticsCommon[TResult](Node astExpr, Perspective perspective, ParserOptions parserOptions, IEnumerable`1 parameters, IEnumerable`1 variables, Func`3 analysisFunction)
+   at System.Data.Common.EntitySql.CqlQuery.AnalyzeQueryExpressionSemantics(Node astQueryCommand, Perspective perspective, ParserOptions parserOptions, IEnumerable`1 parameters, IEnumerable`1 variables)
+   at System.Data.Common.EntitySql.CqlQuery.<>c__DisplayClass1_0.<CompileQueryCommandLambda>b__0(Node astCommand, ParserOptions validatedParserOptions)
+   at System.Data.Common.EntitySql.CqlQuery.CompileCommon[TResult](String commandText, Perspective perspective, ParserOptions parserOptions, Func`3 compilationFunction)
+   at System.Data.Common.EntitySql.CqlQuery.CompileQueryCommandLambda(String queryCommandText, Perspective perspective, ParserOptions parserOptions, IEnumerable`1 parameters, IEnumerable`1 variables)
+   at System.Data.Objects.EntitySqlQueryState.Parse()
+   at System.Data.Objects.EntitySqlQueryState.GetResultType()
+   at System.Data.Objects.ObjectQuery.GetResultType()
+   at System.Web.UI.WebControls.EntityDataSourceQueryBuilder`1.BuildBasicQuery(ObjectContext context, Boolean computeCount)
+   at System.Web.UI.WebControls.EntityDataSourceView.ExecuteSelectTyped[T](DataSourceSelectArguments arguments, Creator qbConstructor)
+   at System.Web.UI.WebControls.EntityDataSourceView.ExecuteSelect(DataSourceSelectArguments arguments)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at DevExpress.Web.Internal.DataHelper.PerformSelect()
+   at DevExpress.Web.Internal.DataContainer.PerformSelect()
+   at DevExpress.Web.ASPxDataWebControlBase.DataBindCore()
+   at DevExpress.Web.ASPxDataWebControlBase.DataBindInternal()
+   at DevExpress.Web.ASPxWebControl.DataBind()
+   at DevExpress.Web.ASPxComboBox.DataBind()
+   at eSTS.Operation.OpAppA.cbSTSO_ValueChanged(Object sender, EventArgs e)
+Exception Source            : System.Data.Entity
+Time of Occurence           : 28/12/2021 11:21:51 AM
+Page                        : operation_opappa_aspx
+Method                      : cbSTSO_ValueChanged
+-------------------------------------------------------------------------------
+Exception Message           : 'pDate' could not be resolved in the current scope or context. Make sure that all referenced variables are in scope, that required schemas are loaded, and that namespaces are referenced correctly. Near simple identifier, line 8, column 42.
+Details                     : System.Data.EntitySqlException: 'pDate' could not be resolved in the current scope or context. Make sure that all referenced variables are in scope, that required schemas are loaded, and that namespaces are referenced correctly. Near simple identifier, line 8, column 42.
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertValueExpressionAllowUntypedNulls(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertValueExpressionsWithUntypedNulls(Node leftAst, Node rightAst, ErrorContext errCtx, Func`1 formatMessage, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertOrderCompArgs(BuiltInExpr astBuiltInExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.<>c.<CreateBuiltInExprConverter>b__97_13(BuiltInExpr bltInExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertBuiltIn(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.Convert(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertValueExpressionAllowUntypedNulls(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertLogicalArgs(BuiltInExpr astBuiltInExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.<>c.<CreateBuiltInExprConverter>b__97_7(BuiltInExpr bltInExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertBuiltIn(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.Convert(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertValueExpressionAllowUntypedNulls(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertValueExpression(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ProcessWhereHavingClausePredicate(DbExpressionBinding source, Node predicate, ErrorContext errCtx, String bindingNameTemplate, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertQueryExpr(Node expr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.Convert(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertValueExpressionAllowUntypedNulls(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertParenExpr(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.Convert(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertValueExpressionAllowUntypedNulls(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertValueExpression(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ProcessAliasedFromClauseItem(AliasedExpr aliasedExpr, SemanticResolver sr, List`1& scopeEntries)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ProcessFromClauseItem(FromClauseItem fromClauseItem, SemanticResolver sr, List`1& scopeEntries)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ProcessFromClause(FromClause fromClause, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertQueryExpr(Node expr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.Convert(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertValueExpressionAllowUntypedNulls(Node astExpr, SemanticResolver sr)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.ConvertQueryStatementToDbExpression(Statement astStatement, SemanticResolver sr, List`1& functionDefs)
+   at System.Data.Common.EntitySql.SemanticAnalyzer.AnalyzeQueryCommand(Node astExpr)
+   at System.Data.Common.EntitySql.CqlQuery.<>c.<AnalyzeQueryExpressionSemantics>b__5_0(SemanticAnalyzer analyzer, Node astExpr)
+   at System.Data.Common.EntitySql.CqlQuery.AnalyzeSemanticsCommon[TResult](Node astExpr, Perspective perspective, ParserOptions parserOptions, IEnumerable`1 parameters, IEnumerable`1 variables, Func`3 analysisFunction)
+   at System.Data.Common.EntitySql.CqlQuery.AnalyzeQueryExpressionSemantics(Node astQueryCommand, Perspective perspective, ParserOptions parserOptions, IEnumerable`1 parameters, IEnumerable`1 variables)
+   at System.Data.Common.EntitySql.CqlQuery.<>c__DisplayClass1_0.<CompileQueryCommandLambda>b__0(Node astCommand, ParserOptions validatedParserOptions)
+   at System.Data.Common.EntitySql.CqlQuery.CompileCommon[TResult](String commandText, Perspective perspective, ParserOptions parserOptions, Func`3 compilationFunction)
+   at System.Data.Common.EntitySql.CqlQuery.CompileQueryCommandLambda(String queryCommandText, Perspective perspective, ParserOptions parserOptions, IEnumerable`1 parameters, IEnumerable`1 variables)
+   at System.Data.Objects.EntitySqlQueryState.Parse()
+   at System.Data.Objects.EntitySqlQueryState.GetResultType()
+   at System.Data.Objects.ObjectQuery.GetResultType()
+   at System.Web.UI.WebControls.EntityDataSourceQueryBuilder`1.BuildBasicQuery(ObjectContext context, Boolean computeCount)
+   at System.Web.UI.WebControls.EntityDataSourceView.ExecuteSelectTyped[T](DataSourceSelectArguments arguments, Creator qbConstructor)
+   at System.Web.UI.WebControls.EntityDataSourceView.ExecuteSelect(DataSourceSelectArguments arguments)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at DevExpress.Web.Internal.DataHelper.PerformSelect()
+   at DevExpress.Web.Internal.DataContainer.PerformSelect()
+   at DevExpress.Web.ASPxDataWebControlBase.DataBindCore()
+   at DevExpress.Web.ASPxDataWebControlBase.DataBindInternal()
+   at DevExpress.Web.ASPxWebControl.DataBind()
+   at DevExpress.Web.ASPxComboBox.DataBind()
+   at eSTS.Operation.OpAppA.cbSTSO_ValueChanged(Object sender, EventArgs e)
+Exception Source            : System.Data.Entity
+Time of Occurence           : 28/12/2021 11:22:59 AM
+Page                        : operation_opappa_aspx
+Method                      : cbSTSO_ValueChanged
+-------------------------------------------------------------------------------

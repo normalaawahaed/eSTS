@@ -1,0 +1,8 @@
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.UploadCMBL_B.btnSave_Click(Object sender, EventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 8/8/2023 10:52:32 AM
+Page                        : operation_uploadcmbl_b_aspx
+Method                      : btnSave_Click
+-------------------------------------------------------------------------------

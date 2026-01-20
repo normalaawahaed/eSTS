@@ -1,0 +1,104 @@
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 598
+Exception Source            : eSTS
+Time of Occurence           : 22/9/2021 9:39:55 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 598
+Exception Source            : eSTS
+Time of Occurence           : 22/9/2021 9:39:58 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 598
+Exception Source            : eSTS
+Time of Occurence           : 22/9/2021 9:40:02 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 598
+Exception Source            : eSTS
+Time of Occurence           : 22/9/2021 9:40:05 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 598
+Exception Source            : eSTS
+Time of Occurence           : 22/9/2021 9:42:26 AM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 598
+Exception Source            : eSTS
+Time of Occurence           : 22/9/2021 12:33:53 PM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.SystemSetup.FlowActionStatus.grid_RowUpdating(Object sender, ASPxDataUpdatingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\FlowActionStatus.aspx.cs:line 58
+Exception Source            : eSTS
+Time of Occurence           : 22/9/2021 12:35:20 PM
+Page                        : systemsetup_flowactionstatus_aspx
+Method                      : grid_RowUpdating
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.SystemSetup.FlowActionStatus.grid_RowUpdating(Object sender, ASPxDataUpdatingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\FlowActionStatus.aspx.cs:line 58
+Exception Source            : eSTS
+Time of Occurence           : 22/9/2021 12:35:25 PM
+Page                        : systemsetup_flowactionstatus_aspx
+Method                      : grid_RowUpdating
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.SystemSetup.FlowActionStatus.grid_RowUpdating(Object sender, ASPxDataUpdatingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\FlowActionStatus.aspx.cs:line 58
+Exception Source            : eSTS
+Time of Occurence           : 22/9/2021 12:35:32 PM
+Page                        : systemsetup_flowactionstatus_aspx
+Method                      : grid_RowUpdating
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.SystemSetup.FlowActionStatus.grid_RowUpdating(Object sender, ASPxDataUpdatingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\FlowActionStatus.aspx.cs:line 58
+Exception Source            : eSTS
+Time of Occurence           : 22/9/2021 12:35:50 PM
+Page                        : systemsetup_flowactionstatus_aspx
+Method                      : grid_RowUpdating
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsFSU_Selecting(Object sender, EntityDataSourceSelectingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 598
+Exception Source            : eSTS
+Time of Occurence           : 22/9/2021 12:35:56 PM
+Page                        : operation_opappa_aspx
+Method                      : dsFSU_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.SystemSetup.FlowActionStatus.grid_RowUpdating(Object sender, ASPxDataUpdatingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\FlowActionStatus.aspx.cs:line 58
+Exception Source            : eSTS
+Time of Occurence           : 22/9/2021 2:17:43 PM
+Page                        : systemsetup_flowactionstatus_aspx
+Method                      : grid_RowUpdating
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.SystemSetup.FlowActionStatus.grid_RowUpdating(Object sender, ASPxDataUpdatingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SystemSetup\FlowActionStatus.aspx.cs:line 58
+Exception Source            : eSTS
+Time of Occurence           : 22/9/2021 2:29:46 PM
+Page                        : systemsetup_flowactionstatus_aspx
+Method                      : grid_RowUpdating
+-------------------------------------------------------------------------------

@@ -1,0 +1,5 @@
+Message           : path:C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\Upload\419234V\7c4131ad-82d6-4425-9459-26889deacaa7\qrcode_Lampiran1_202111011457282667.jpg
+Time of Occurence           : 1/11/2021 2:57:28 PM
+Page                        : QRCodeGen
+Method                      : RenderQrCode
+-------------------------------------------------------------------------------

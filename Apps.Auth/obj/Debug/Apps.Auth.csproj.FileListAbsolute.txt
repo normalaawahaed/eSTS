@@ -1,0 +1,63 @@
+C:\Users\MALAPPSB\Documents\Workspace\Projects\Test\hrms\apps\Apps.Auth\bin\Debug\Apps.Auth.dll
+C:\Users\MALAPPSB\Documents\Workspace\Projects\Test\hrms\apps\Apps.Auth\bin\Debug\Apps.Auth.pdb
+C:\Users\MALAPPSB\Documents\Workspace\Projects\Test\hrms\apps\Apps.Auth\obj\Debug\Apps.Auth.dll
+C:\Users\MALAPPSB\Documents\Workspace\Projects\Test\hrms\apps\Apps.Auth\obj\Debug\Apps.Auth.pdb
+D:\Workspace\Project\hrms\apps\Apps.Auth\bin\Debug\Apps.Auth.dll
+D:\Workspace\Project\hrms\apps\Apps.Auth\bin\Debug\Apps.Auth.pdb
+D:\Workspace\Project\hrms\apps\Apps.Auth\obj\Debug\Apps.Auth.csprojResolveAssemblyReference.cache
+D:\Workspace\Project\hrms\apps\Apps.Auth\obj\Debug\Apps.Auth.dll
+D:\Workspace\Project\hrms\apps\Apps.Auth\obj\Debug\Apps.Auth.pdb
+D:\Workspace\Project\hrms\source code\hrms\Apps.Auth\bin\Debug\Apps.Auth.dll.config
+D:\Workspace\Project\hrms\source code\hrms\Apps.Auth\bin\Debug\Apps.Auth.dll
+D:\Workspace\Project\hrms\source code\hrms\Apps.Auth\bin\Debug\Apps.Auth.pdb
+D:\Workspace\Project\hrms\source code\hrms\Apps.Auth\bin\Debug\EntityFramework.dll
+D:\Workspace\Project\hrms\source code\hrms\Apps.Auth\bin\Debug\EntityFramework.xml
+D:\Workspace\Project\hrms\source code\hrms\Apps.Auth\obj\Debug\Apps.Auth.csprojResolveAssemblyReference.cache
+D:\Workspace\Project\hrms\source code\hrms\Apps.Auth\obj\Debug\Apps.Auth.dll
+D:\Workspace\Project\hrms\source code\hrms\Apps.Auth\obj\Debug\Apps.Auth.pdb
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Auth\bin\Debug\Apps.Auth.dll.config
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Auth\bin\Debug\Apps.Auth.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Auth\bin\Debug\Apps.Auth.pdb
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Auth\bin\Debug\EntityFramework.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Auth\bin\Debug\EntityFramework.xml
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Auth\obj\Debug\Apps.Auth.dll
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Auth\obj\Debug\Apps.Auth.pdb
+D:\Workspace\Project\hrms\source code\HRMIS\Apps.Auth\obj\Debug\Apps.Auth.csprojResolveAssemblyReference.cache
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Auth\bin\Debug\Apps.Auth.dll.config
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Auth\bin\Debug\Apps.Auth.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Auth\bin\Debug\Apps.Auth.pdb
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Auth\bin\Debug\EntityFramework.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Auth\bin\Debug\EntityFramework.xml
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Auth\obj\Debug\Apps.Auth.csprojResolveAssemblyReference.cache
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Auth\obj\Debug\Apps.Auth.dll
+D:\Workspace\Project\hrms\source code\hrmis_report\Apps.Auth\obj\Debug\Apps.Auth.pdb
+D:\Workspace\Project\eBunkering\Source Code\Apps.Auth\bin\Debug\Apps.Auth.dll.config
+D:\Workspace\Project\eBunkering\Source Code\Apps.Auth\bin\Debug\Apps.Auth.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Auth\bin\Debug\Apps.Auth.pdb
+D:\Workspace\Project\eBunkering\Source Code\Apps.Auth\obj\Debug\Apps.Auth.dll
+D:\Workspace\Project\eBunkering\Source Code\Apps.Auth\obj\Debug\Apps.Auth.pdb
+D:\Workspace\Project\eBunkering\Source Code\Apps.Auth\obj\Debug\Apps.Auth.csprojResolveAssemblyReference.cache
+C:\Workspace\eBunkering\Source Code\Apps.Auth\bin\Debug\Apps.Auth.dll.config
+C:\Workspace\eBunkering\Source Code\Apps.Auth\bin\Debug\Apps.Auth.dll
+C:\Workspace\eBunkering\Source Code\Apps.Auth\bin\Debug\Apps.Auth.pdb
+C:\Workspace\eBunkering\Source Code\Apps.Auth\obj\Debug\Apps.Auth.csprojResolveAssemblyReference.cache
+C:\Workspace\eBunkering\Source Code\Apps.Auth\obj\Debug\Apps.Auth.dll
+C:\Workspace\eBunkering\Source Code\Apps.Auth\obj\Debug\Apps.Auth.pdb
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Auth\bin\Debug\Apps.Auth.dll.config
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Auth\bin\Debug\Apps.Auth.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Auth\bin\Debug\Apps.Auth.pdb
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Auth\obj\Debug\Apps.Auth.csprojResolveAssemblyReference.cache
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Auth\obj\Debug\Apps.Auth.dll
+C:\Users\normala.a\Documents\Workspace\eBunkering\Source Code\Apps.Auth\obj\Debug\Apps.Auth.pdb
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Auth\bin\Debug\Apps.Auth.dll.config
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Auth\bin\Debug\Apps.Auth.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Auth\bin\Debug\Apps.Auth.pdb
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Auth\obj\Debug\Apps.Auth.dll
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Auth\obj\Debug\Apps.Auth.pdb
+C:\Users\normala.a\Documents\Workspace\Project\eBunkering\Source Code\Apps.Auth\obj\Debug\Apps.Auth.csprojResolveAssemblyReference.cache
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Auth\bin\Debug\Apps.Auth.dll.config
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Auth\bin\Debug\Apps.Auth.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Auth\bin\Debug\Apps.Auth.pdb
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Auth\obj\Debug\Apps.Auth.dll
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Auth\obj\Debug\Apps.Auth.pdb
+C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\Apps.Auth\obj\Debug\Apps.Auth.csprojResolveAssemblyReference.cache

@@ -1,0 +1,68 @@
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppA.dsSTSOperator_Selecting(Object sender, EntityDataSourceSelectingEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OpAppA.aspx.cs:line 984
+Exception Source            : eSTS
+Time of Occurence           : 28/10/2025 8:36:06 AM
+Page                        : operation_opappa_aspx
+Method                      : dsSTSOperator_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : String was not recognized as a valid DateTime.
+Details                     : System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at eSTS.Operation.ApplicantDashboard.grid_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApplicantDashboard.aspx.cs:line 84
+Exception Source            : mscorlib
+Time of Occurence           : 28/10/2025 8:43:04 AM
+Page                        : operation_applicantdashboard_aspx
+Method                      : grid_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at eSTS.Operation.ApplicantDashboard.Page_Load(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApplicantDashboard.aspx.cs:line 26
+Exception Source            : mscorlib
+Time of Occurence           : 28/10/2025 9:29:24 AM
+Page                        : operation_applicantdashboard_aspx
+Method                      : Page_Load
+-------------------------------------------------------------------------------
+Exception Message           : String was not recognized as a valid DateTime.
+Details                     : System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at eSTS.Operation.ApplicantDashboard.grid_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApplicantDashboard.aspx.cs:line 84
+Exception Source            : mscorlib
+Time of Occurence           : 28/10/2025 9:29:51 AM
+Page                        : operation_applicantdashboard_aspx
+Method                      : grid_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppB.dsSTSOperator_Selecting(Object sender, EntityDataSourceSelectingEventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 28/10/2025 12:00:53 PM
+Page                        : operation_opappb_aspx
+Method                      : dsSTSOperator_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OpAppB.dsSTSOperator_Selecting(Object sender, EntityDataSourceSelectingEventArgs e)
+Exception Source            : eSTS
+Time of Occurence           : 28/10/2025 12:00:59 PM
+Page                        : operation_opappb_aspx
+Method                      : dsSTSOperator_Selecting
+-------------------------------------------------------------------------------
+Exception Message           : String was not recognized as a valid DateTime.
+Details                     : System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at eSTS.Operation.ApplicantDashboard.grid_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e)
+Exception Source            : mscorlib
+Time of Occurence           : 28/10/2025 12:13:48 PM
+Page                        : operation_applicantdashboard_aspx
+Method                      : grid_HtmlDataCellPrepared
+-------------------------------------------------------------------------------

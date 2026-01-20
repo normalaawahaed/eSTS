@@ -1,0 +1,96 @@
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationListPrint.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationListPrint.aspx.cs:line 79
+Exception Source            : eSTS
+Time of Occurence           : 6/7/2022 9:28:43 AM
+Page                        : operation_operationlistprint_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationListPrint.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationListPrint.aspx.cs:line 100
+Exception Source            : eSTS
+Time of Occurence           : 6/7/2022 9:28:43 AM
+Page                        : operation_operationlistprint_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationListPrint.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationListPrint.aspx.cs:line 110
+Exception Source            : eSTS
+Time of Occurence           : 6/7/2022 9:28:43 AM
+Page                        : operation_operationlistprint_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationListPrint.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationListPrint.aspx.cs:line 137
+Exception Source            : eSTS
+Time of Occurence           : 6/7/2022 9:28:43 AM
+Page                        : operation_operationlistprint_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationListPrint.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationListPrint.aspx.cs:line 79
+Exception Source            : eSTS
+Time of Occurence           : 6/7/2022 9:28:43 AM
+Page                        : operation_operationlistprint_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationListPrint.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationListPrint.aspx.cs:line 100
+Exception Source            : eSTS
+Time of Occurence           : 6/7/2022 9:28:43 AM
+Page                        : operation_operationlistprint_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationListPrint.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationListPrint.aspx.cs:line 110
+Exception Source            : eSTS
+Time of Occurence           : 6/7/2022 9:28:43 AM
+Page                        : operation_operationlistprint_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationListPrint.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationListPrint.aspx.cs:line 137
+Exception Source            : eSTS
+Time of Occurence           : 6/7/2022 9:28:43 AM
+Page                        : operation_operationlistprint_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationListPrint.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationListPrint.aspx.cs:line 79
+Exception Source            : eSTS
+Time of Occurence           : 6/7/2022 9:28:43 AM
+Page                        : operation_operationlistprint_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationListPrint.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationListPrint.aspx.cs:line 100
+Exception Source            : eSTS
+Time of Occurence           : 6/7/2022 9:28:43 AM
+Page                        : operation_operationlistprint_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationListPrint.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationListPrint.aspx.cs:line 110
+Exception Source            : eSTS
+Time of Occurence           : 6/7/2022 9:28:43 AM
+Page                        : operation_operationlistprint_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Object reference not set to an instance of an object.
+Details                     : System.NullReferenceException: Object reference not set to an instance of an object.
+   at eSTS.Operation.OperationListPrint.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\OperationListPrint.aspx.cs:line 137
+Exception Source            : eSTS
+Time of Occurence           : 6/7/2022 9:28:43 AM
+Page                        : operation_operationlistprint_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------

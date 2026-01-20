@@ -1,0 +1,518 @@
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 30/1/2022 8:22:35 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 30/1/2022 11:38:10 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValuesCore(Int32 index, String[] fieldNames, GetRowValueMethod getValue)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at DevExpress.Web.ASPxGridView.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at eSTS.Operation.ApprDashboardA.gridActive_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApprDashboardA.aspx.cs:line 285
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 30/1/2022 11:38:25 AM
+Page                        : operation_apprdashboarda_aspx
+Method                      : gridActive_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValuesCore(Int32 index, String[] fieldNames, GetRowValueMethod getValue)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at DevExpress.Web.ASPxGridView.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at eSTS.Operation.ApprDashboardA.gridActive_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApprDashboardA.aspx.cs:line 285
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 30/1/2022 11:38:25 AM
+Page                        : operation_apprdashboarda_aspx
+Method                      : gridActive_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValuesCore(Int32 index, String[] fieldNames, GetRowValueMethod getValue)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at DevExpress.Web.ASPxGridView.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at eSTS.Operation.ApprDashboardA.gridActive_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApprDashboardA.aspx.cs:line 285
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 30/1/2022 11:38:25 AM
+Page                        : operation_apprdashboarda_aspx
+Method                      : gridActive_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValuesCore(Int32 index, String[] fieldNames, GetRowValueMethod getValue)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at DevExpress.Web.ASPxGridView.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at eSTS.Operation.ApprDashboardA.gridActive_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApprDashboardA.aspx.cs:line 285
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 30/1/2022 11:38:41 AM
+Page                        : operation_apprdashboarda_aspx
+Method                      : gridActive_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValuesCore(Int32 index, String[] fieldNames, GetRowValueMethod getValue)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at DevExpress.Web.ASPxGridView.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at eSTS.Operation.ApprDashboardA.gridActive_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApprDashboardA.aspx.cs:line 285
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 30/1/2022 11:38:41 AM
+Page                        : operation_apprdashboarda_aspx
+Method                      : gridActive_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValuesCore(Int32 index, String[] fieldNames, GetRowValueMethod getValue)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at DevExpress.Web.ASPxGridView.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at eSTS.Operation.ApprDashboardA.gridActive_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApprDashboardA.aspx.cs:line 285
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 30/1/2022 11:38:41 AM
+Page                        : operation_apprdashboarda_aspx
+Method                      : gridActive_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 30/1/2022 11:38:49 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 30/1/2022 11:39:14 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValuesCore(Int32 index, String[] fieldNames, GetRowValueMethod getValue)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at DevExpress.Web.ASPxGridView.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at eSTS.Operation.ApprDashboardA.gridActive_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApprDashboardA.aspx.cs:line 285
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 30/1/2022 11:39:25 AM
+Page                        : operation_apprdashboarda_aspx
+Method                      : gridActive_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValuesCore(Int32 index, String[] fieldNames, GetRowValueMethod getValue)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at DevExpress.Web.ASPxGridView.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at eSTS.Operation.ApprDashboardA.gridActive_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApprDashboardA.aspx.cs:line 285
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 30/1/2022 11:39:25 AM
+Page                        : operation_apprdashboarda_aspx
+Method                      : gridActive_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValuesCore(Int32 index, String[] fieldNames, GetRowValueMethod getValue)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at DevExpress.Web.ASPxGridView.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at eSTS.Operation.ApprDashboardA.gridActive_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApprDashboardA.aspx.cs:line 285
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 30/1/2022 11:39:25 AM
+Page                        : operation_apprdashboarda_aspx
+Method                      : gridActive_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValuesCore(Int32 index, String[] fieldNames, GetRowValueMethod getValue)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at DevExpress.Web.ASPxGridView.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at eSTS.Operation.ApprDashboardA.gridActive_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApprDashboardA.aspx.cs:line 285
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 30/1/2022 11:39:42 AM
+Page                        : operation_apprdashboarda_aspx
+Method                      : gridActive_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValuesCore(Int32 index, String[] fieldNames, GetRowValueMethod getValue)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at DevExpress.Web.ASPxGridView.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at eSTS.Operation.ApprDashboardA.gridActive_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApprDashboardA.aspx.cs:line 285
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 30/1/2022 11:39:42 AM
+Page                        : operation_apprdashboarda_aspx
+Method                      : gridActive_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValuesCore(Int32 index, String[] fieldNames, GetRowValueMethod getValue)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at DevExpress.Web.ASPxGridView.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at eSTS.Operation.ApprDashboardA.gridActive_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApprDashboardA.aspx.cs:line 285
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 30/1/2022 11:39:42 AM
+Page                        : operation_apprdashboarda_aspx
+Method                      : gridActive_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 30/1/2022 11:39:49 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 30/1/2022 11:40:32 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValuesCore(Int32 index, String[] fieldNames, GetRowValueMethod getValue)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at DevExpress.Web.ASPxGridView.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at eSTS.Operation.ApprDashboardA.gridActive_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApprDashboardA.aspx.cs:line 285
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 30/1/2022 11:40:40 AM
+Page                        : operation_apprdashboarda_aspx
+Method                      : gridActive_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValuesCore(Int32 index, String[] fieldNames, GetRowValueMethod getValue)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at DevExpress.Web.ASPxGridView.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at eSTS.Operation.ApprDashboardA.gridActive_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApprDashboardA.aspx.cs:line 285
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 30/1/2022 11:40:40 AM
+Page                        : operation_apprdashboarda_aspx
+Method                      : gridActive_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValuesCore(Int32 index, String[] fieldNames, GetRowValueMethod getValue)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at DevExpress.Web.ASPxGridView.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at eSTS.Operation.ApprDashboardA.gridActive_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApprDashboardA.aspx.cs:line 285
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 30/1/2022 11:40:40 AM
+Page                        : operation_apprdashboarda_aspx
+Method                      : gridActive_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 30/1/2022 11:56:38 AM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValuesCore(Int32 index, String[] fieldNames, GetRowValueMethod getValue)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at DevExpress.Web.ASPxGridView.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e)
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 30/1/2022 12:00:38 PM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValuesCore(Int32 index, String[] fieldNames, GetRowValueMethod getValue)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at DevExpress.Web.ASPxGridView.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e)
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 30/1/2022 12:00:40 PM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValuesCore(Int32 index, String[] fieldNames, GetRowValueMethod getValue)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at DevExpress.Web.ASPxGridView.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e)
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 30/1/2022 12:00:40 PM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValuesCore(Int32 index, String[] fieldNames, GetRowValueMethod getValue)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at DevExpress.Web.ASPxGridView.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e)
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 30/1/2022 12:00:45 PM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValuesCore(Int32 index, String[] fieldNames, GetRowValueMethod getValue)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at DevExpress.Web.ASPxGridView.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e)
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 30/1/2022 12:00:45 PM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValuesCore(Int32 index, String[] fieldNames, GetRowValueMethod getValue)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at DevExpress.Web.ASPxGridView.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e)
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 30/1/2022 12:00:45 PM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValuesCore(Int32 index, String[] fieldNames, GetRowValueMethod getValue)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at DevExpress.Web.ASPxGridView.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e)
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 30/1/2022 12:01:44 PM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValuesCore(Int32 index, String[] fieldNames, GetRowValueMethod getValue)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at DevExpress.Web.ASPxGridView.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e)
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 30/1/2022 12:01:46 PM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+Details                     : System.Web.HttpException (0x80004005): A field or property with name 'ValidPermit' was not found in the selected data source. Possible causes of this error may be the following: an incorrect or case-insensitive spelling of the grid column name; assigning a wrong or not properly initialized data source to the grid.
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValueByControllerRow(Int32 controllerRow, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataControllerProvider.GetRowValue(Int32 visibleIndex, String fieldName, Boolean isDesignTime)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValue(Int32 visibleIndex, String fieldName)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValuesCore(Int32 index, String[] fieldNames, GetRowValueMethod getValue)
+   at DevExpress.Web.Data.WebDataProxy.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at DevExpress.Web.ASPxGridView.GetRowValues(Int32 visibleIndex, String[] fieldNames)
+   at eSTS.Operation.OperationList.gridComplete_HtmlDataCellPrepared(Object sender, BootstrapGridViewTableDataCellEventArgs e)
+Exception Source            : DevExpress.Web.v18.2
+Time of Occurence           : 30/1/2022 12:01:49 PM
+Page                        : operation_operationlist_aspx
+Method                      : gridComplete_HtmlDataCellPrepared
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 30/1/2022 12:05:31 PM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 30/1/2022 12:08:59 PM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse)
+   at eSTS.Operation.ApplicantDashboard.Page_Load(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\Operation\ApplicantDashboard.aspx.cs:line 26
+Exception Source            : mscorlib
+Time of Occurence           : 30/1/2022 12:36:42 PM
+Page                        : operation_applicantdashboard_aspx
+Method                      : Page_Load
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e)
+Exception Source            : mscorlib
+Time of Occurence           : 30/1/2022 12:37:24 PM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 30/1/2022 1:05:59 PM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
+Exception Message           : Thread was being aborted.
+Details                     : System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at eSTS.SiteInspinia.cmdLogOut_Click(Object sender, EventArgs e) in C:\Users\normala.a\Documents\Workspace\Project\eSTS\3. Source Code\eSTS\eSTS\SiteInspinia.Master.cs:line 289
+Exception Source            : mscorlib
+Time of Occurence           : 30/1/2022 4:48:07 PM
+Page                        : Site.Master
+Method                      : checkSession()
+-------------------------------------------------------------------------------
